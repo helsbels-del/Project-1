@@ -1,6 +1,6 @@
 
 .movingcatlogo {
-    display:flex;
+    display:Block;
     margin-left: 0;
     margin-right: auto;
     width: 50%;
@@ -8,3 +8,13 @@
     text-align: left;   
 
 }
+.flex-container {
+    display:flex;
+    flex-direction: column;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}    

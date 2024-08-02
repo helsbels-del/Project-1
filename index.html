@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="descrition"
-        content="moving cat pilates studio, pilates all levels, beginner, intermediate, stretch, earith, cambridgshire"
-        <meta name="keywaords" content="moving cat, pilates studio, pilates, stretch, tone, relax, unwind" <!-- Title
-        -->
+    <!-- meta tags for search engine -->
+    <meta name="descrition" content="moving cat pilates studio, pilates all levels, beginner, intermediate, stretch, earith, cambridgshire">
+    <meta name="keywaords" content="moving cat, pilates studio, pilates, stretch, tone, relax, unwind">
+    <!-- Title -->
     <title>Moving Cat Pilates Studio</title>
     <!-- favicon-->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/favicon/apple-touch-icon.png">
@@ -20,14 +20,21 @@
 
 <body>
     <!-- Header -->
-    <header class="flex-container">
-        <img src="assets/images/logo.jpg" class="movingcatlogo" alt="Moving cat logo">
-        <div>
-            <div>Home</div>
-            <div>History</div>
-            <div>Join us!</div>
-        </div>
-        
+    <header>
+        <a href="index.html>"> <img src="assets/images/logo.jpg" class="movingcatlogo" alt="Moving cat logo">
+        </a>
+        <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label">X</label>
+        <i class="fa-solid fa-bars"></i>
+            <nav>
+                <ul id="menu">
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li>History</li>
+                    <li>Join us!</li>
+                </ul>
+            </nav>
+
+
     </header>
     <!-- Main Content -->
     <main><img src="assets/images/morning salutation.jpg" width="400" height="500"></main>

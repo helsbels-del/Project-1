@@ -1,10 +1,11 @@
 /*Google fonts import*/
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200..700&display=swap');
+
 /* Asterix wildcard selector to override default styles added by the browser */
 * {
-padding: 0;
-margin: 0;
-box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 /* General styles */
@@ -14,9 +15,11 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
-    font-family: 'Lato',sans-serif;}
+    font-family: 'Lato', sans-serif;
+}
 
- /* Header */
+
+/* Header */
 header {
     background-color: #ffffff;
     padding: 1rem 1rem;
@@ -29,24 +32,33 @@ header {
     align-items: center;
     flex-wrap: wrap;
 }
+
 .mclogo {
-    display:flex;
+    display: flex;
     margin-left: 0;
     margin-right: auto;
     width: 100%;
     height: 50%;
-    text-align: left;  
+    text-align: left;
 }
+
+#quote {
+    font-family: 'Sofia', sans -sarif;
+    font-size: 70%;
+    color: rgb(3, 117, 3);
+}
+
 
 #menu {
     list-style-type: none;
 }
+
 /* Navbar stles with dropdown toggle */
 nav {
-    display:flex;
-    position:relative;
+    display: flex;
+    position: relative;
     background-color: #ffffff;
-    width: 100%;    
+    width: 100%;
 }
 
 li {

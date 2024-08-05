@@ -149,3 +149,6 @@ main {
 #cats{
     margin-top: 600px;
 }
+#map {
+background: url(../images/map.png) no-repeat center center/cover;
+}

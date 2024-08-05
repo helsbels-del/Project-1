@@ -94,6 +94,9 @@ main {
     width: 100%;
     background: url('../images/morning salutation.jpg') no-repeat center center/cover;
     position: absolute;
+    display:flex;
+    flex-direction: column;
+    flex-grow: 1;
 }
 #cover-text {
     color: white;
@@ -141,14 +144,20 @@ main {
 
 /* Times Table */
 #timestable {
-    background: url('../images/sunflower.png') no-repeat center center/cover;
+    
    width: 100%;
    margin-top: 10px;
-   color:antiquewhite
-}
+   color: #ffffff;
+    position: relative;
+   background: url('../images/flowers.jpg') no-repeat center center/cover;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }  
+   
+   
 #cats{
     margin-top: 600px;
 }
 #map {
 background: url(../images/map.png) no-repeat center center/cover;
+position:absolute;
 }

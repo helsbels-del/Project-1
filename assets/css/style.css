@@ -98,7 +98,7 @@ main {
 #cover-text {
     color: white;
     font-size: 130%;
-    padding-left: 10px;
-    padding-top: 10px;
-    background-color: rgba(100, 29, 10, 0.065);
+    padding-left: 25px;
+    padding-top: 20px;
+    width: 80%;
 }

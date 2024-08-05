@@ -108,11 +108,15 @@ main {
     width: 100%;
     background: url('../images/jpheadshot.png') no-repeat center center/cover;
     position: absolute;
+    
 }
 #joseph-cover-text {
     color: white;
     font-size: 130%;
-    padding-left: 25px;
-    padding-top: 20px;
+    padding: 4px, 4px;
     width: 80%;
+    background-color: rgba(161, 104, 104, 0.6);
+    margin-left: 10px;
+    margin-top: 10px;
+   
 }

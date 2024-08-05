@@ -102,3 +102,17 @@ main {
     padding-top: 20px;
     width: 80%;
 }
+/* Joseph section */
+#joseph {
+    height: 600px;
+    width: 100%;
+    background: url('../images/jpheadshot.png') no-repeat center center/cover;
+    position: absolute;
+}
+#joseph-cover-text {
+    color: white;
+    font-size: 130%;
+    padding-left: 25px;
+    padding-top: 20px;
+    width: 80%;
+}

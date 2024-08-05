@@ -30,6 +30,10 @@ header {
     display: flex;   
 }
 
+header a {
+    text-decoration: none;
+    color: #252525;
+}
 h1 {
     font-family: 'Oswald', sans-serif;
 }
@@ -56,10 +60,19 @@ nav {
 }
 
 #menu {
+    font-size: 100%;
+    letter-spacing:  4px;
     list-style-type: none;
     flex-direction: row;
 }
 
+#menu > li {
+    margin-bottom: 1rem;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
 /* Main Content*/
 
 main {

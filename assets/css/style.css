@@ -36,6 +36,7 @@ header a {
 }
 h1 {
     font-family: 'Oswald', sans-serif;
+    order: 1;
 }
 .mclogo {
     
@@ -53,10 +54,12 @@ h1 {
 
 /* Navbar stles with dropdown toggle */
 nav {
-    display: flex;
-    position: relative;
+    border-top: 0;
+    position:relative;
     background-color: #ffffff;
     width: 100%;
+    left: 0;
+    /*display:none; */
 }
 
 #menu {

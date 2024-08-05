@@ -40,7 +40,7 @@ header a {
 }
 h1 {
     font-family: 'Oswald', sans-serif;
-    flex-grow: 1;
+    
 
 }
 .mclogo {
@@ -65,7 +65,7 @@ nav {
     background-color: #ffffff;
     width: 100%;
     margin-left: 4px;
-    flex-grow: 1;
+    
    
     /*display:none; */
 }

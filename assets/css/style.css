@@ -148,16 +148,14 @@ main {
    width: 100%;
    margin-top: 10px;
    color: #ffffff;
-    position: relative;
    background: url('../images/flowers.jpg') no-repeat center center/cover;
    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-top: 800px;
     }  
    
    
-#cats{
-    margin-top: 600px;
-}
+
 #map {
 background: url(../images/map.png) no-repeat center center/cover;
-position:absolute;
+
 }

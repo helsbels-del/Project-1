@@ -72,10 +72,8 @@ nav {
    }
 
    #menu > li {
-    margin-bottom: 1rem;
-    display: inline;
-    text-align: space-between;
-}
+    display: inline;  
+    }
 
 .active {
     border-bottom: 1px solid #3a3a3a;

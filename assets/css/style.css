@@ -143,5 +143,9 @@ main {
 #timestable {
     background: url('../images/sunflower.png') no-repeat center center/cover;
    width: 100%;
-   margin-top: 600px;
+   margin-top: 10px;
+   color:antiquewhite
+}
+#cats{
+    margin-top: 600px;
 }

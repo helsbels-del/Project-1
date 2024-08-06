@@ -50,12 +50,6 @@ header a {
       
 }
 
-#quote {
-    font-family: 'Sofia', sans -sarif;
-    font-size: 100%;
-    color: rgb(3, 117, 3);
-}
-
 /* Navbar */
 nav {
    
@@ -121,7 +115,7 @@ main {
 #joseph-cover-text {
     color: white;
     font-size: 130%;
-    padding: 4px, 4px;
+    padding: 4px 4px;
     width: 80%;
     background-color: rgba(161, 104, 104, 0.6);
     margin-left: 10px;
@@ -144,7 +138,7 @@ main {
 #joinus-cover-text {
     color: white;
     font-size: 130%;
-    padding: 4px, 4px;
+    padding: 4px 4px;
     width: 80%;
     background-color: rgba(161, 104, 104, 0.6);
     margin-left: 10px;
@@ -168,3 +162,14 @@ main {
 background: url(../images/map.png) no-repeat center center/cover;
 
 }
+
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: azure;
+}
+

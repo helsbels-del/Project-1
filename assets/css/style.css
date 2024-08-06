@@ -28,6 +28,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
+    height: 18vh;
     box-shadow: 0 2px 4px #3a3a3a;
     flex-direction: column; 
     
@@ -93,7 +94,7 @@ main {
 
 /* Salutation section */
 #salutation {
-    height: 50vh;
+    height: 100vh;
     width: 100%;
     background: url('../images/morning salutation.jpg') no-repeat center center/cover;
     position: relative;
@@ -110,7 +111,7 @@ main {
 }
 /* Joseph section */
 #joseph {
-    height: 600px;
+    height: 100vh;
     width: 100%;
     background: url('../images/jpheadshot.png') no-repeat center center/cover;
     position: absolute;
@@ -121,7 +122,6 @@ main {
     font-size: 130%;
     padding: 4px 4px;
     width: 80%;
-    background-color: rgba(161, 104, 104, 0.6);
     margin-left: 10px;
     margin-top: 10px;
    
@@ -144,7 +144,6 @@ main {
     font-size: 130%;
     padding: 4px 4px;
     width: 80%;
-    background-color: rgba(161, 104, 104, 0.6);
     margin-left: 10px;
     margin-top: 10px;
    

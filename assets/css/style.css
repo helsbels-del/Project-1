@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: rgba(161, 104, 104, 0.6);
     padding: 1rem 1rem;
     position: fixed;
     z-index: 99;
@@ -41,7 +41,7 @@ header a {
 
 .mclogo {
     
-    width: 80%;
+    width: 50%;
     height: 100px;
     position: relative; 
       
@@ -57,7 +57,7 @@ header a {
 nav {
    
     position:relative;
-    background-color: #ffffff;
+    background-color: rgba(161, 104, 104, 0.3);
     width: 100%;
     margin-left: 4px;
     

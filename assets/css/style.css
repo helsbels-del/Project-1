@@ -157,10 +157,13 @@ main {
    height: 300px;
    margin-bottom: 0;
    border-color: #ffffff;
-  
+  display: flex;
+  flex-direction: row;
     }  
    
-   
+   #times {
+
+   }
 
 
 

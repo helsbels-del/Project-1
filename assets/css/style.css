@@ -161,8 +161,15 @@ main {
   flex-direction: row;
     }  
    
-   #times {
-
+   #timestable div {
+    color:#ffffff;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 5px;
+    text-align: center;
+    flex-basis: 100px;
+    flex-grow: 1;
+    border:rgba(161, 104, 104, 0.6) solid 5px;
+    width: 50%;
    }
 
 

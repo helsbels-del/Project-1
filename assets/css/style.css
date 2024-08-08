@@ -111,6 +111,13 @@ main {
     width: 80%;
 }
 
+/*who are we*/
+#who{
+    background-color: rgba(161, 104, 104, 0.6);
+    height: 300px;
+
+}
+
 /* Joseph section */
 #joseph {
     height: 600px;

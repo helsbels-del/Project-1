@@ -88,8 +88,7 @@ main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 150px;
-    margin-bottom: 180px;
-}
+    }
 
 
 /* Salutation section */
@@ -152,11 +151,13 @@ main {
     
    width: 100%;
    color: #ffffff;
-   /*background: url('../images/flowers.jpg') no-repeat center center/cover;*/
-   background-color: rgba(161, 104, 104, 0.6);
+   background: url('../images/lakeview.jpg') no-repeat center center/cover;
    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    font-weight: bolder;
    height: 300px;
+   margin-bottom: 0;
+   border-color: #ffffff;
+  
     }  
    
    
@@ -170,6 +171,6 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: azure;
+    background-color: rgba(161, 104, 104, 0.6);
 }
 

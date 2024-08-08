@@ -168,25 +168,32 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
+   
     
 }
 
 #timestable div {
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
-    
     text-align: center;
     flex-basis: 200px;
-    flex-grow: 1;
-    border: rgba(161, 104, 104, 0.6) solid 5px;
-   
+    flex-grow: 0;
+    border: rgba(161, 104, 104, 0.6) solid 5px; 
+    width: 50%; 
+    /*align-items: center;*/
      
 }
 
-.week {
-    height:120px;
+h3 {
+    margin-top: 10px;
 }
+
+.week .sat .sun {
+    height: 130px;
+    width: 150px;
+}
+
+
 
 
 /* Footer */

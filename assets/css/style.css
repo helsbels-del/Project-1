@@ -110,7 +110,7 @@ main {
 }
 
 /* Joseph section */
-#joseph {
+#history {
     height: fit-content;
     width: 100%;
     background: url('../images/swirls.jpg') no-repeat center center/cover;
@@ -118,7 +118,7 @@ main {
 
 }
 
-#joseph-cover-text {
+#history-cover-text {
     color: white;
     font-size: 130%;
     padding: 4px 4px;

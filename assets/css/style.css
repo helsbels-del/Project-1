@@ -109,27 +109,27 @@ main {
 
 }
 
-/* Joseph section */
+/* History section */
 #history {
     height: 600px;
     width: 100%;
     background: url('../images/swirls.jpg') no-repeat center center/cover;
-    position: absolute;
+    position: relative;
 
 }
 
 #history-cover-text {
     color: white;
     font-size: 130%;
-    padding: 4px 4px;
+    padding-left: 25px;
+    padding-top: 20px;
     width: 80%;
-    margin-left: 10px;
-    margin-top: 10px;
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
 
 }
 #what {
+    background-color: rgba(161, 104, 104, 0.6);
     height:fit-content;
     width: 100%;
 }

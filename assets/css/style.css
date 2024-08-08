@@ -173,10 +173,10 @@ main {
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
     text-align: center;
-    flex-basis: 200px;
+    
     flex-grow: 0;
     border: rgba(161, 104, 104, 0.6) solid 5px; 
-    width: 50%; 
+   
     /*align-items: center;*/
      
 }
@@ -185,12 +185,15 @@ h3 {
     margin-top: 10px;
 }
 
-.week .sat .sun {
+.week {
     height: auto;
-    width: 150px;
+   flex-basis: 100%;
 }
 
-
+.sat, .sun {
+    height: auto;
+    flex-basis: 50%;
+}
 
 
 /* Footer */

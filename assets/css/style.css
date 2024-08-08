@@ -168,6 +168,9 @@ main {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 #timestable div {
@@ -178,12 +181,13 @@ main {
     flex-grow: 1;
     border: rgba(161, 104, 104, 0.6) solid 5px;
     width: 50%;
-    margin: 5px;
-    justify-content: center;
+    margin-top: 5px;
+     
 }
 
-
-
+.week {
+    height:100px;
+}
 
 
 /* Footer */

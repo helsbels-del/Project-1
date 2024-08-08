@@ -94,7 +94,7 @@ main {
 
 /* Salutation section */
 #salutation {
-    height: 50vh;
+    height: 600px;
     width: 100%;
     background: url('../images/morning salutation.jpg') no-repeat center center/cover;
     position: relative;
@@ -111,10 +111,10 @@ main {
 }
 /* Joseph section */
 #joseph {
-    height: 100vh;
+    height: 600px;
     width: 100%;
     background: url('../images/jpheadshot.png') no-repeat center center/cover;
-    position: absolute;
+    position: relative;
     
 }
 #joseph-cover-text {

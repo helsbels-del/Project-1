@@ -94,7 +94,7 @@ main {
 
 /* Salutation section */
 #salutation {
-    height: 100vh;
+    height: 50vh;
     width: 100%;
     background: url('../images/morning salutation.jpg') no-repeat center center/cover;
     position: relative;

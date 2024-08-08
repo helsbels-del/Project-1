@@ -152,8 +152,10 @@ main {
     
    width: 100%;
    color: #ffffff;
-   background: url('../images/flowers.jpg') no-repeat center center/cover;
+   /*background: url('../images/flowers.jpg') no-repeat center center/cover;*/
+   background-color: rgba(161, 104, 104, 0.6);
    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: bolder;
    height: 300px;
     }  
    

@@ -142,7 +142,7 @@ main {
     height: 600px;
     width: 100%;
     background: url('../images/lillypad3.jpg') no-repeat center center/cover;
-    position: absolute;
+    position: relative;
 
 }
 
@@ -154,7 +154,13 @@ main {
     width: 80%;
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
+}
 
+#form {
+    background-color: rgba(161, 104, 104, 0.6);
+    height:fit-content;
+    width: 100%;
+    padding: 10% 5%;
 
 }
 

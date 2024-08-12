@@ -172,7 +172,21 @@ width: 80%;
     flex-wrap: wrap;
        justify-content: space-between;
 }
+#classes {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
 
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: rgb(161, 104, 104);
+   
+    color: #fafafa;
+}
 /* Times Table */
 #timestable {
 

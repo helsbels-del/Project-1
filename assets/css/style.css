@@ -218,3 +218,8 @@ h3 {
     list-style-type: none;
     background-color: rgba(161, 104, 104, 0.6);
 }
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: rgb(161, 104, 104);
+}

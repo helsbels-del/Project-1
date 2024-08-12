@@ -167,6 +167,11 @@ main {
 #sign-up {
 width: 80%;
 }
+#location {
+    display:flex;
+    flex-wrap: wrap;
+       justify-content: space-between;
+}
 
 /* Times Table */
 #timestable {

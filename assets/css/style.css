@@ -22,7 +22,7 @@ body {
 
 /* Header */
 header {
-    background-color: rgba(161, 104, 104, 0.6);
+    background-color: rgb(161, 104, 104);
     padding: 8% 1rem;
     position: fixed;
     z-index: 99;

@@ -23,7 +23,7 @@ body {
 /* Header */
 header {
     background-color: rgb(161, 104, 104);
-    padding: 8% 1rem;
+    padding: 8.25% 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -244,4 +244,28 @@ h3 {
     font-size: 160%;
     padding: 5%;
     color: rgb(161, 104, 104);
+}
+@media screen and (min-width: 425px) {
+    /* Header */
+    header {padding: 6.25%;}
+}
+
+@media screen and (min-width: 768px) {
+    /* Header */
+    header {padding: 6%;}
+}
+@media screen and (min-width: 1024px) {
+    /* Header */
+    header {padding: 4.5%;}
+}
+@media screen and (min-width: 1140px) {
+    /* Header */
+    header {padding-bottom: 45px;
+    padding-top: 45px;}
+nav {
+    height: 40px;
+}
+#menu {
+    height: 30px:
+}
 }

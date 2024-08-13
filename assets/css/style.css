@@ -98,6 +98,8 @@ main {
     padding-left: 25px;
     padding-top: 20px;
     width: 80%;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 /*who are we*/
@@ -300,6 +302,10 @@ h3 {
 
     /* classes */
     #classes {justify-content: flex-end;}
+
+    #joinus {
+        margin-top: 25px;
+    }
 }
 @media screen and (min-width: 1024px) {
     /* Header */

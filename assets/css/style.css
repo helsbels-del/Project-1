@@ -299,6 +299,9 @@ h3 {
     #menu {
         font-size: 20px;
     }
+    #salutation {
+        margin-top: 13px;
+    }
 
     /* classes */
     #classes {justify-content: flex-end;}
@@ -316,6 +319,9 @@ h3 {
     #menu {
         font-size: 24px;
     }
+    #salutation {
+        margin-top: 22px;
+    }
 }
 @media screen and (min-width: 1140px) {
     /* Header */
@@ -328,4 +334,19 @@ h3 {
         font-size: 32px;
     }
 
+    
+    #salutation {
+        margin-top: 38px;
+        height: 800px;
+        width: 50%;
+    
+    }
+    #who{
+        background-color: rgba(161, 104, 104, 0.6);
+        height: fit-content;
+        padding: 10%;
+        width: 50%;
+    
+    
+    }
 }

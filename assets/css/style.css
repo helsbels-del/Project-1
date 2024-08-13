@@ -175,6 +175,8 @@ width: 80%;
     display:flex;
     flex-wrap: wrap;
     justify-content: flex-start;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .join-button {
@@ -185,6 +187,15 @@ width: 80%;
     background-color: rgb(161, 104, 104);
    
     color: #fafafa;
+}
+
+#information {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#location {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 /* Times Table */
 #timestable {

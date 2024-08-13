@@ -178,13 +178,15 @@ width: 80%;
 
 
 .join-button {
-    margin-top: 20px;
+    margin-top: 10px;
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
     background-color: rgb(161, 104, 104);
    text-align: center;
     color: #fafafa;
+    margin-bottom: 10px;
+    margin-left: 25px;
 }
 
 #information {
@@ -257,12 +259,12 @@ h3 {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    background-color: rgba(161, 104, 104, 0.6);
+    background-color: rgb(161, 104, 104);
 }
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: rgb(161, 104, 104);
+    color: rgb(255,255,255);
 }
 @media screen and (min-width: 425px) {
     /* Header */

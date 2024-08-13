@@ -269,11 +269,34 @@ h3 {
 @media screen and (min-width: 425px) {
     /* Header */
     header {padding: 6.25%;}
+
+/* form */
+ #form {
+    padding-left: 87px;
+ }
+ .join-button {
+    padding-left: 32px;
+ }
+ #information {
+    padding-left: 20px;
+ }
+ #location {
+    padding-left: 20px;
+ }
+ #classes {
+    padding-left: 20px;
+ }
 }
 
 @media screen and (min-width: 768px) {
     /* Header */
     header {padding: 6%;}
+    h1 {
+        font-size: 38px;
+    }
+    #menu {
+        font-size: 20px;
+    }
 
     /* classes */
     #classes {justify-content: flex-end;}
@@ -281,10 +304,22 @@ h3 {
 @media screen and (min-width: 1024px) {
     /* Header */
     header {padding: 4.5%;}
+    h1 {
+        font-size: 42px;
+    }
+    #menu {
+        font-size: 24px;
+    }
 }
 @media screen and (min-width: 1140px) {
     /* Header */
     header {padding-bottom: 45px;
     padding-top: 45px;}
+    h1 {
+        font-size: 48px;
+    }
+    #menu {
+        font-size: 32px;
+    }
 
 }

@@ -201,7 +201,7 @@ width: 80%;
 #classes {
     display:flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: space-between;
     padding-top: 10px;
     padding-bottom: 10px;
    
@@ -408,7 +408,7 @@ main {
     }
     #classes {
         margin-top: 20px;
-    justify-content:center;
+    justify-content:space-between;
     }
     
 }

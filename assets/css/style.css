@@ -326,7 +326,8 @@ h3 {
 @media screen and (min-width: 1140px) {
     /* Header */
     header {padding-bottom: 45px;
-    padding-top: 45px;}
+    padding-top: 45px;
+background: url('../images/mclogo.png') no-repeat center/center;}
     h1 {
         font-size: 48px;
     }

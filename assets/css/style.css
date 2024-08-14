@@ -287,16 +287,8 @@ h3 {
  .join-button {
     padding-left: 32px;
  }
- #information {
-    padding-left: 20px;
- }
- #location {
-    padding-left: 20px;
- }
- #classes {
-    padding-left: 20px;
- }
-}
+ 
+  
 
 @media screen and (min-width: 768px) {
     /* Header */

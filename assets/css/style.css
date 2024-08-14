@@ -165,6 +165,11 @@ main {
 
 }
 
+#form h2 {
+    display: flex;
+    align-items: center;      
+}
+
 #sign-up {
 width: 80%;
 }
@@ -194,6 +199,8 @@ width: 80%;
 #information {
     padding-top: 10px;
     padding-bottom: 10px;
+    display: flex;
+    align-items: center;
     
     
 }
@@ -274,7 +281,12 @@ h3 {
 
 /* form */
  #form {
-    padding-left: 87px;
+    padding-left: 100px;
+
+ }
+ #sign-up {
+    width:80%;
+ }
  }
  .join-button {
     padding-left: 32px;

@@ -369,25 +369,46 @@ main {
 }
     #history {
         margin-top: 37px;
-        height: 800px;
+        height: 80vh;
         width: 50%;
+    }
+   
+
+    #what {
+        margin-top: 37px;
+        width: 50%;
+        height: 80vh;
+        
     }
     #joinus {
         margin-top: 37px;
-        height: 800px;
+        height: 80vh;
         width: 50%;
-    }
-
-    #what {
-        width: 50%;
-        height: fit-content;
     }
 
     #form {
         width: 50%;
-        height: fit-content;
+        height: 80vh;
+        margin-top: 37px;
+        text-align: center;
     }
     h3 {
         margin-top: 40px;
     }
+
+    #sign-up h2 {
+        margin-top: 50px;
+    }
+
+    #form h4 {
+        margin-top: 30px;
+    }
+    #information {
+        margin-top: 30px;
+    }
+    #classes {
+        margin-top: 20px;
+    justify-content: space-evenly;
+    }
+    
 }

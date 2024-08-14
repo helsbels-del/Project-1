@@ -355,7 +355,10 @@ main {
     }
 #timestable {
     height: 50%;
-    width: 50%;
+    width: auto;
+    flex-basis: 70%;
+    align-self: flex-end;
+    justify-self: center;
 }
     #history {
         margin-top: 37px;

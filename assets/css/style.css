@@ -193,7 +193,7 @@ width: 80%;
    text-align: center;
     color: #fafafa;
     margin-bottom: 10px;
-    margin-left: 25px;
+   
 }
 
 #information {
@@ -283,11 +283,13 @@ h3 {
  #sign-up {
     width:80%;
  }
+  
+ #classes{
+    justify-content: flex-start;
  }
- .join-button {
-    padding-left: 32px;
- }
- 
+ #location {
+    justify-content: flex-start;
+ } 
   
 
 @media screen and (min-width: 768px) {
@@ -304,11 +306,10 @@ h3 {
     }
 
     /* classes */
-    #classes {justify-content: flex-end;}
+    #classes {justify-content: flex-start;}
 
-    #joinus {
-        margin-top: 25px;
-    }
+        
+    
 }
 @media screen and (min-width: 1024px) {
     /* Header */
@@ -390,7 +391,7 @@ main {
         width: 50%;
         height: 80vh;
         margin-top: 37px;
-        text-align: center;
+      
     }
     h3 {
         margin-top: 40px;
@@ -398,9 +399,10 @@ main {
 
     #sign-up h2 {
         margin-top: 50px;
+       
     }
 
-    #form h4 {
+    #form h2 {
         margin-top: 30px;
     }
     #information {
@@ -408,7 +410,6 @@ main {
     }
     #classes {
         margin-top: 20px;
-    justify-content:space-between;
+    
     }
     
-}

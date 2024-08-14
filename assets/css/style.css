@@ -386,4 +386,7 @@ main {
         width: 50%;
         height: fit-content;
     }
+    h3 {
+        margin-top: 40px;
+    }
 }

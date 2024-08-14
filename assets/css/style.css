@@ -408,7 +408,7 @@ main {
     }
     #classes {
         margin-top: 20px;
-    justify-content: space-evenly;
+    justify-content:center;
     }
     
 }

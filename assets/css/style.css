@@ -319,7 +319,6 @@ img {
     /* Header */
     header {
         padding: 6%;
-        background: url('../images/mclogo15.png') no-repeat right;
         background-color: rgb(161, 104, 104); 
           
     }
@@ -456,13 +455,13 @@ img {
 
     #joinus {
         margin-top: 60px;
-        height: 80vh;
+        height: 50vh;
         width: 50%;
     }
 
     #form {
         width: 50%;
-        height: 80vh;
+        height: 50vh;
         margin-top: 60px;
     }
 

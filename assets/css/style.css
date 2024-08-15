@@ -303,6 +303,9 @@ h3 {
     /* Header */
     header {
         padding: 6%;
+        background: url('../images/mclogo15.png') no-repeat right;
+        background-color: rgb(161, 104, 104); 
+          
     }
 
     h1 {
@@ -358,6 +361,8 @@ h3 {
     header {
         padding-bottom: 45px;
         padding-top: 45px;
+        background: url('../images/mclogo15.png') no-repeat center/right center ;
+        background-color: rgb(161, 104, 104);
     }
 
     h1 {

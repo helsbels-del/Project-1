@@ -320,7 +320,7 @@ h3 {
     header {padding: 4.5%;
     }
     
-    }
+    
     h1 {
         font-size: 52px;
     }
@@ -334,6 +334,7 @@ h3 {
         display: flex;
         margin-top: 20px;
     }
+}
 
 @media screen and (min-width: 1140px) {
     /* Header */

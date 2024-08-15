@@ -134,7 +134,8 @@ main {
 }
 #jphistory {
     background: url('../images/jphistory.png') no-repeat center center;
-    height: 70vh;
+    background-color: rgba(161, 104, 104, 0.6);
+    height: 100vh;
 
 }
 
@@ -285,7 +286,7 @@ h3 {
     #jphistory {
         background: url('../images/jphistory.png') no-repeat center center;
         background-color: rgba(161, 104, 104, 0.6);
-        height: 70vh;
+        height: 100vh;}
 
     /* form */
     #form {
@@ -433,7 +434,7 @@ h3 {
         background-color: rgba(161, 104, 104, 0.6);
         height: 80vh;
         width: 50%;
-        margin-top: 60px;
+        margin-top: 60px;}
 
     #joinus {
         margin-top: 60px;

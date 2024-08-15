@@ -204,11 +204,16 @@ main {
 }
 
 #classes {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    display: table;
+    
+   
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.radio {
+    display: flex;
+    justify-content: space-between;
 }
 
 /* Times Table */
@@ -231,27 +236,25 @@ main {
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
     text-align: center;
-
+    
     flex-grow: 0;
     border: rgba(161, 104, 104, 0.6) solid 5px;
-
-    /*align-items: center;*/
-
 }
 
-h3 {
-    margin-top: 10px;
-}
 
 .week {
     height: auto;
     flex-basis: 100%;
+    padding-bottom: 10px;
+    
 }
 
 .sat,
 .sun {
     height: auto;
     flex-basis: 50%;
+    padding-bottom: 10px;
+   
 }
 
 /* Footer */
@@ -434,7 +437,7 @@ h3 {
     #what {
         margin-top: 60px;
         width: 50%;
-        height: 100vh;
+        height: 50vh;
     }
 
     #what p {
@@ -442,7 +445,7 @@ h3 {
     }
     #jphistory {
         background: url('../images/jphistory.png') no-repeat center top;
-        height: 100vh;
+        height: 50vh;
         width: 100%;  
          
         

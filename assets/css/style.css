@@ -81,7 +81,7 @@ main {
 
 /* Salutation section */
 #salutation {
-    height: 50vh;
+    height: 80vh;
     width: 100%;
     background: url('../images/morning salutation.jpg') no-repeat center center/cover;
     position: relative;
@@ -108,7 +108,7 @@ main {
 
 /* History section */
 #history {
-    height: 50vh;
+    height: 80vh;
     width: 100%;
     background: url('../images/swirls.jpg') no-repeat center center/cover;
     position: relative;
@@ -145,7 +145,7 @@ img {
 
 /* Joinus section */
 #joinus {
-    height: 50vh;
+    height: 80vh;
     width: 100%;
     background: url('../images/sunset.jpg') no-repeat center center/cover;
     position: relative;

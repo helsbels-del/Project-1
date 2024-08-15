@@ -339,6 +339,10 @@ img {
     #classes {
         justify-content: flex-start;
     }
+
+    #what {
+        padding-top: 5%;
+    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -452,13 +456,13 @@ img {
 
     #joinus {
         margin-top: 60px;
-        height: 50vh;
+        height: 80vh;
         width: 50%;
     }
 
     #form {
         width: 50%;
-        height: 50vh;
+        height: 80vh;
         margin-top: 60px;
     }
 

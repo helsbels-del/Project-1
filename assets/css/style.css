@@ -341,8 +341,12 @@ img {
     }
 
     #what {
-        padding-top: 5%;
+        padding: 5% 5%;
     }
+    img {
+        width: 30%;
+        margin-top: 40px;
+         }
 }
 
 @media screen and (min-width: 1024px) {
@@ -444,7 +448,7 @@ img {
         margin-top: 60px;
         width: 50%;
         height: 100vh;
-    }
+            }
 
     #what p {
         font-size: 24px;

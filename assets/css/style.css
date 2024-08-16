@@ -537,5 +537,9 @@ input {
 #classes {
     font-size: 32px;
 }
+.join-button {
+    font-size: 250%;
+    padding: 30px 64px;
+}
 
 }

@@ -191,6 +191,10 @@ img {
     font-size: 16px;
 }
 
+.input {
+    margin-left: 10px;
+}
+
 
 .join-button {
     margin-top: 10px;

@@ -482,7 +482,7 @@ img {
         margin-top: 20px;
 
     }
-
+    
 }
 @media screen and (min-width: 2560px) {
     #salutation {
@@ -552,6 +552,9 @@ input {
 }
 #social-networks {
     font-size: 52px;
+}
+#information p {
+    font-size: 32px;
 }
 
 }

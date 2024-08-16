@@ -202,9 +202,7 @@ img {
 #edin {
     margin-left: 5px;
 }
-#new {
-    margin-left: 5px;
-}
+
 
 
 .join-button {
@@ -316,17 +314,13 @@ footer {
     #cover-text {
         padding: 25px 20px 20px 25px;
     }
-    #jphistory {
-        background: url('../images/jphistory.png') no-repeat center center;
-              height: 100vh;}
-    }
-
-    /* form */
+       /* form */
     
 
     #sign-up {
         width: 80%;
     }
+    
 
     #classes {
         justify-content: flex-start;
@@ -335,7 +329,7 @@ footer {
     #location {
         justify-content: flex-start;
     }
-
+}
 
 
 @media screen and (min-width: 768px) {
@@ -372,6 +366,12 @@ footer {
         width: 30%;
         margin-top: 40px;
          }
+         #new {
+            margin-left: 5px;
+        }
+        #man {
+            margin-left: 5px;
+        }
 }
 
 @media screen and (min-width: 1024px) {

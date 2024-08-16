@@ -459,13 +459,13 @@ img {
 
     #joinus {
         margin-top: 60px;
-        height: 80vh;
+        height: 100vh;
         width: 50%;
     }
 
     #form {
         width: 50%;
-        height: 80vh;
+        height: 100vh;
         margin-top: 60px;
         padding-top: 10%;
     }
@@ -498,4 +498,12 @@ img {
 align-content:center;
 padding: 5%;
 }
+
+#joinus {
+    height: 100vh;
+}
+#form {
+    height: 100vh;
+}
+
 }

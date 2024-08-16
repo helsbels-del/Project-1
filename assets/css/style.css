@@ -135,7 +135,7 @@ main {
 }
 
 img {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
@@ -410,8 +410,7 @@ img {
     /* Header */
     header {
         padding-bottom: 75px;
-        padding-top: 45px;
-              
+        padding-top: 45px;              
     }    
 
     #menu {

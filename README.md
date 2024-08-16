@@ -173,7 +173,7 @@ With mouse hover over button
 I have checked that all my pages are responsive on-screen sizes:
 320px, 425px, 768px, 1024px, 1440px and 2560px
 
-I have checked them in Enterprise and Firefox browsers as well as the Google brower I use myself.
+I have checked them in Enterprise and Firefox browsers as well as the Google browser I use myself. 
 
 HTML Validator testing
 

@@ -270,6 +270,12 @@ img {
 }
 
 /* Footer */
+
+footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%
+}
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -486,6 +492,7 @@ img {
         margin-top: 20px;
 
     }
+    
     
 }
 @media screen and (min-width: 2560px) {

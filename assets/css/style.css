@@ -492,3 +492,9 @@ img {
     }
 
 }
+@media screen and (min-width: 2560px) {
+
+#who { 
+align-content:center;
+}
+}

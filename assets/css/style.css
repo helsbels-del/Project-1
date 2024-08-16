@@ -203,6 +203,10 @@ img {
     margin-bottom: 10px;
 
 }
+.join-button:hover{
+    background-color: #fff;
+    color: rgb(161, 104, 104);
+}
 
 #information {
     padding-top: 10px;

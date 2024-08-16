@@ -41,7 +41,7 @@ header a {
 
 h1 {
     color: #ffffff;
-    font-size: 32px;
+    font-size: clamp(32px, 3vw, 72px);
 
 }
 
@@ -282,11 +282,7 @@ img {
     header {
         padding: 6.25%;
     }
-
-    h1 {
-        font-size: 32px;
-    }
-
+    
     #cover-text {
         padding: 25px 20px 20px 25px;
     }
@@ -322,8 +318,9 @@ img {
           
     }
 
-    h1 {
-        font-size: 42px;
+    
+    nav {
+        font-size: 24px;
     }
 
     #menu {
@@ -355,9 +352,7 @@ img {
         padding: 4.5%;
     }
 
-    h1 {
-        font-size: 52px;
-    }
+    
 
     #menu {
         font-size: 24px;
@@ -394,9 +389,7 @@ img {
         
     }
 
-    h1 {
-        font-size: 68px;
-    }
+    
 
     #menu {
         font-size: 32px;

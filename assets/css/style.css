@@ -41,7 +41,7 @@ header a {
 
 h1 {
     color: #ffffff;
-    font-size: clamp(32px, 3vw, 72px);
+    font-size: clamp(32px, 3vw, 82px);
 
 }
 

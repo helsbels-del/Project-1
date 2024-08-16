@@ -11,9 +11,11 @@ Header at 320px width
 ![Header at 320px width](assets/images/header-320px.png)
 
 Header at 768px width
+
 ![Header at 768px width](assets/images/header-768px.png)
 
 Header at 1024px width
+
 ![Header at 1024px width](assets/images/header-1024px.png)
 
 Background colour used rbg (161, 104, 104). I choose this as a nice earthy colour that fits the kind of colour scheme you would expect for a Pilates type of website. A calming colour that fits in with the other images throughout the website.
@@ -51,6 +53,7 @@ Who Section on smaller screens
 ![who-section-small](assets/images/who-section-small.png)
 
 Who section on larger screens
+
 ![who-section-large](assets/images/who-section-large.png)
 
 **Times table section**
@@ -77,7 +80,7 @@ Footer on smaller screens
 Footer on larger screens
 ![footer large](assets/images/footer-large.png)
 
-History Page
+**History Page**
 
 
 Users are reminded on the home page to navigate to the History page to find out more about Joseph Pilates, the founder of Pilates moves.
@@ -116,6 +119,7 @@ Join us page image on smaller screens
 ![sunset](assets/images/joinus-backround-image.png)
 
 Join Us page image on larger screens
+
 ![sunset](<assets/images/joinus-backround-image large.png>)
 
 Underneath this image on smaller screens, is the form to fill out with full name and email address, choose which location the user is in and which class time the user would like for their free taster session.

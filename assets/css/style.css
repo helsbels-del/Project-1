@@ -369,6 +369,10 @@ img {
     #joinus {
         margin-top: 34px;
     }
+    img {
+        width: 20%;
+    }
+
 }
 
 @media screen and (min-width: 1440px) {
@@ -433,6 +437,7 @@ img {
 
     #what p {
         font-size: 24px;
+        padding-top: 25px;
     }
            img {
             margin-top: 50px;
@@ -500,7 +505,18 @@ h3 {
     font-size: 52px;
 }
 
-p {
+#what p {
     font-size: 32px;
+}
+#history {
+    margin-top: 100px;
+}
+#what {
+    margin-top: 100px;
+    padding: 5% 5%;
+}
+
+img {
+    margin-top: 200px;
 }
 }

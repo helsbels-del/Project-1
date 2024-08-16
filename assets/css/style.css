@@ -545,5 +545,8 @@ input {
     font-size: 250%;
     padding: 30px 64px;
 }
+#social-networks {
+    font-size: 52px;
+}
 
 }

@@ -312,7 +312,7 @@ img {
 
     /* Header */
     header {
-        padding: 6%;
+        padding: 6.5%;
         background-color: rgb(161, 104, 104); 
           
     }
@@ -488,8 +488,12 @@ img {
 #who { 
 align-content:center;
 padding: 5%;
+font-size: 32px;
 }
 
+#timestable p {
+    font-size: 32px;
+}
 #joinus {
     height: 100vh;
 }

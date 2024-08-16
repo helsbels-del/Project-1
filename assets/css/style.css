@@ -377,10 +377,8 @@ img {
     header {
         padding-bottom: 75px;
         padding-top: 45px;
-               
-    }
-
-    
+              
+    }    
 
     #menu {
         font-size: 32px;
@@ -438,7 +436,7 @@ img {
     }
            img {
             margin-top: 50px;
-            width: 80%;
+            width: 50%;
             }
 
     #joinus {

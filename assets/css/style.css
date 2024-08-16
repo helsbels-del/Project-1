@@ -478,6 +478,9 @@ img {
 
 }
 @media screen and (min-width: 2560px) {
+    #salutation {
+        margin-top: 100px;
+    }
 
 #who { 
 align-content:center;
@@ -491,4 +494,15 @@ padding: 5%;
     height: 100vh;
 }
 
+h2 {
+    font-size: 52px;
+}
+
+h3 {
+    font-size: 52px;
+}
+
+p {
+    font-size: 32px;
+}
 }

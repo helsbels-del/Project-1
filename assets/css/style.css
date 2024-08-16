@@ -289,11 +289,10 @@ img {
     #jphistory {
         background: url('../images/jphistory.png') no-repeat center center;
               height: 100vh;}
+    }
 
     /* form */
     
-
-    }
 
     #sign-up {
         width: 80%;
@@ -307,7 +306,7 @@ img {
         justify-content: flex-start;
     }
 
-}
+
 
 @media screen and (min-width: 768px) {
 

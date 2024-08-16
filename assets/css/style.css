@@ -243,7 +243,9 @@ img {
     flex-grow: 0;
     border: rgba(161, 104, 104, 0.6) solid 5px;
 }
-
+#timestable h2 {
+    background-color: rgba(161, 104, 104, 0.6);
+}
 
 .week {
     height: auto;

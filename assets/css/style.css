@@ -519,4 +519,23 @@ h3 {
 img {
     margin-top: 200px;
 }
+#joinus {
+    margin-top: 100px;
+}
+#form {
+    margin-top: 100px;
+}
+#information {
+font-size: 32px;
+}
+input {
+    height: 32px;
+}
+#location{
+    font-size: 32px;
+}
+#classes {
+    font-size: 32px;
+}
+
 }

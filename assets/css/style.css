@@ -321,10 +321,13 @@ img {
         width: 80%;
     }
 
-    #location #classes {
+    #classes {
         justify-content: flex-start;
     }
 
+    #location {
+        justify-content: flex-start;
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -333,7 +336,9 @@ img {
     header {
         padding: 6.5%;
         background-color: rgb(161, 104, 104);
+
     }
+
 
     nav {
         font-size: 24px;
@@ -361,15 +366,19 @@ img {
         margin-top: 40px;
     }
 
-    #man #new {
+    #new {
         margin-left: 5px;
     }
 
+    #man {
+        margin-left: 5px;
+    }
 }
 
 @media screen and (min-width: 1024px) {
 
     /* Header */
+
 
     #menu {
         font-size: 24px;
@@ -379,8 +388,9 @@ img {
         margin-top: 30px;
     }
 
-    #joinus #history {
+    #history {
         margin-top: 34px;
+
     }
 
     #what {
@@ -388,9 +398,14 @@ img {
     }
 
 
+    #joinus {
+        margin-top: 34px;
+    }
+
     img {
         width: 20%;
     }
+
 }
 
 @media screen and (min-width: 1440px) {
@@ -440,10 +455,16 @@ img {
     }
 
 
-    #form #joinus #what #history {
+    #history {
         margin-top: 60px;
         height: 100vh;
         width: 50%;
+    }
+
+    #what {
+        margin-top: 60px;
+        width: 50%;
+        height: 100vh;
     }
 
     #what p {
@@ -457,7 +478,16 @@ img {
 
     }
 
+    #joinus {
+        margin-top: 60px;
+        height: 100vh;
+        width: 50%;
+    }
+
     #form {
+        width: 50%;
+        height: 100vh;
+        margin-top: 60px;
         padding-top: 10%;
     }
 
@@ -482,6 +512,12 @@ img {
 
     }
 
+    footer {
+        bottom: 0;
+        position: fixed;
+        width: 100%
+    }
+
 }
 
 @media screen and (min-width: 2560px) {
@@ -500,7 +536,11 @@ img {
         font-size: 32px;
     }
 
-    #form #joinus {
+    #joinus {
+        height: 100vh;
+    }
+
+    #form {
         height: 100vh;
     }
 
@@ -516,11 +556,12 @@ img {
         font-size: 32px;
     }
 
-    #form #joinus #what #history {
+    #history {
         margin-top: 100px;
     }
 
     #what {
+        margin-top: 100px;
         padding: 5% 5%;
     }
 
@@ -528,12 +569,28 @@ img {
         margin-top: 200px;
     }
 
-    #classes #locatio #information {
+    #joinus {
+        margin-top: 100px;
+    }
+
+    #form {
+        margin-top: 100px;
+    }
+
+    #information {
         font-size: 32px;
     }
 
     input {
         height: 32px;
+    }
+
+    #location {
+        font-size: 32px;
+    }
+
+    #classes {
+        font-size: 32px;
     }
 
     .join-button {

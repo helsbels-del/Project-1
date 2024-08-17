@@ -255,7 +255,7 @@ img {
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: rgb(161, 104, 104);
+    background-color: #000;
     text-align: center;
     color: #fafafa;
     margin-bottom: 10px;
@@ -264,7 +264,7 @@ img {
 
 .join-button:hover {
     background-color: #fff;
-    color: rgb(161, 104, 104);
+    color: #000;
 }
 
 #information {

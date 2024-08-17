@@ -84,7 +84,7 @@ main {
 #salutation {
     height: 80vh;
     width: 100%;
-    background: url('../images/morning-salutation.jpg') no-repeat center center/cover;
+    background: url('../images/morning-salutation.webp') no-repeat center center/cover;
     position: relative;
     
 
@@ -148,7 +148,7 @@ img {
 #joinus {
     height: 80vh;
     width: 100%;
-    background: url('../images/pilates-pose.jpg') no-repeat center center/cover;
+    background: url('../images/sunset.jpg') no-repeat center center/cover;
     position: relative;
     
 }

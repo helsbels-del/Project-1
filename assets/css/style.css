@@ -113,7 +113,7 @@ main {
 
     width: 100%;
     color: #ffffff;
-    background: url('../images/lakeview.webp') no-repeat center center/cover;
+    background: url('../images/lakeview2.webp') no-repeat center center/cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bolder;
     height: 300px;
@@ -153,7 +153,7 @@ main {
 #history {
     height: 80vh;
     width: 100%;
-    background: url('../images/swirls.webp') no-repeat center center/cover;
+    background: url('../images/swirls2.webp') no-repeat center center/cover;
     position: relative;
 
 }

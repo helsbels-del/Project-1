@@ -88,7 +88,7 @@ main {
     
 
 }
-
+/* Cover Text */
 #cover-text {
     color: white;
     font-size: 130%;
@@ -98,7 +98,7 @@ main {
     background-color: rgba(0, 0, 0, 0.6);
 }
 
-/*who are we*/
+/*who are we section*/
 #who {
     background-color: rgba(161, 104, 104, 0.6);
     height: fit-content;

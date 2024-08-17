@@ -185,6 +185,7 @@ The pages look best on Google and Enterprise.
 I ran my 3 html pages throught the official W3C HTML validator.
 Both the index.html and history.html passed with no errors.
 With the joinus.html file, an error is shown saying that there is a stray <footer> tag on line 138, however, I cannot see that this is a stry tag as when I remove it then this creates other stray tags. This bug has not been fixed as I can't see that this tag shouldn't be whre it is.
+I have fixed this bug. It was the end body tag that was in the in correct place. This has now been moved and the HTML validator shows no errors for all 3 html files now.
 
 
 ![html-error-message](assets/images/error-joinus-html.png)

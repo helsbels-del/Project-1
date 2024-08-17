@@ -200,7 +200,14 @@ My CSS style sheet passed the official W3C vlaidator.
 
 ![CSS validator results](assets/images/CSS-validator.png)
 
-Unfixed Bugs
+**Lighthouse report**
+
+![lighthouse report](assets/images/lighthouse-validator.png)
+
+**Unfixed Bugs**
+
+From my Lighthouse Performance score i can see there is an issue with my images and he speed of how they load. I have triied to rectify this by changing the jpg files to webo files. This did not help. I then added the tag loading="eager", but this didn't work either.
+
 
 
 

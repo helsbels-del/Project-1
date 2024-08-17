@@ -167,21 +167,36 @@ The Let's Join button at the bottom of the form changes color when the user hove
 Before mouse hover over button
 
 
-![alt text](assets/images/lets-join.png)
+![join us button](assets/images/lets-join.png)
 
 With mouse hover over button
 
-![alt text](assets/images/lets-join-hover.png)
+![join us button hover](assets/images/lets-join-hover.png)
 
 
 I have checked that all my pages are responsive on-screen sizes:
 320px, 425px, 768px, 1024px, 1440px and 2560px
 
 I have checked them in Enterprise and Firefox browsers as well as the Google browser I use myself. 
+The pages look best on Google and Enterprise.
 
-HTML Validator testing
+**HTML Validator testing**
 
-CSS Validator testing
+I ran my 3 html pages throught the official W3C HTML validator.
+Both the index.html and history.html passed with no errors.
+With the joinus.html file, an error is shown saying that there is a stray <footer> tag on line 138, however, I cannot see that this is a stry tag as when I remove it then this creates other stray tags. This bug has not been fixed as I can't see that this tag shouldn't be whre it is.
+
+
+![html-error-message](assets/images/error-joinus-html.png)
+
+![stray-footer-tag](assets/images/footer-error.png)
+
+
+**CSS Validator testing**
+
+My CSS style sheet passed the official W3C vlaidator.
+
+![CSS validator results](assets/images/CSS-validator.png)
 
 Unfixed Bugs
 

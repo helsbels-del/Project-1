@@ -128,7 +128,7 @@ main {
 }
 
 #what {
-    background-color: rgba(161, 104, 104, 0.6);
+    background-color: rgba(161, 104, 104, 0.5);
     height: fit-content;
     width: auto;
     padding: 10% 5%;
@@ -164,7 +164,7 @@ img {
 }
 
 #form {
-    background-color: rgba(161, 104, 104, 0.6);
+    background-color: rgba(161, 104, 104, 0.5);
     height: fit-content;
     width: 100%;
     padding-left: 15%;
@@ -264,13 +264,13 @@ img {
     border: rgba(161, 104, 104, 0.6) solid 5px;
 }
 #timestable h2 {
-    background-color: rgba(161, 104, 104, 0.6);
+    background-color: rgba(161, 104, 104, 0.5);
 }
 
 .week {
     height: auto;
     flex-basis: 100%;
-    padding-bottom: 10px;
+    
     
 }
 
@@ -278,7 +278,7 @@ img {
 .sun {
     height: auto;
     flex-basis: 50%;
-    padding-bottom: 10px;
+    
    
 }
 

@@ -184,9 +184,10 @@ The pages look best on Google and Enterprise.
 
 I ran my 3 html pages throught the official W3C HTML validator.
 
-With the joinus.html file, an error is shown saying that there is a stray <footer> tag on line 138, however, I cannot see that this is a stry tag as when I remove it then this creates other stray tags. This bug has not been fixed as I can't see that this tag shouldn't be whre it is.
+With the joinus.html file, an error is shown saying that there is a stray <footer> tag on line 138, however, I cannot see that this is a stray tag as when I remove it then this creates other stray tags. 
 I have fixed this bug. It was the end body tag that was in the in correct place. This has now been moved and the HTML validator shows no errors for all 3 html files now.
-Both the index.html and history.html passed with no errors, however they both showed warnings as both contain sections with no headers. I tried to fix this by changing the sections to divs however this messed up my formatting. I then changed the divs back to sections and turned the first sentence of text into h4 so this is bold and stands out as the first sentence. There is still one section in each of these files where I don't want to use a heading so there is still a warning message with each of this files in the html validator.
+Both the index.html and history.html passed with no errors, however they both showed warnings as both contain sections with no headers. I tried to fix this by changing the sections to divs however this messed up my formatting. I then changed the divs back to sections and turned the first sentence of text into h4* so this is bold and stands out as the first sentence. There is still one section in each of these files where I don't want to use a heading so there is still a warning message with each of this files in the html validator.
+*update I have changed this to h3 so I now get 100% score in lighthouse accesibility.
 
 ![html-error-message](assets/images/error-joinus-html.png)
 
@@ -200,6 +201,8 @@ My CSS style sheet passed the official W3C vlaidator.
 ![CSS validator results](assets/images/CSS-validator.png)
 
 Unfixed Bugs
+
+
 
 Deployment
 

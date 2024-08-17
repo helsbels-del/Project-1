@@ -127,9 +127,7 @@ main {
 #timestable div {
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
-    text-align: center;
-
-    flex-grow: 0;
+    text-align: center;    
     border: rgba(161, 104, 104, 0.6) solid 5px;
 }
 

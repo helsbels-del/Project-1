@@ -21,7 +21,7 @@ body {
 /* Header */
 header {
     background-color: rgb(161, 104, 104);
-    padding: 8.5% 1rem;
+    padding: 3% 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -51,6 +51,7 @@ nav {
     position: relative;
     width: 100%;
     margin-left: 4px;
+    font-size: 24px;
 
     /*display:none; */
 }

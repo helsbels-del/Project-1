@@ -86,9 +86,10 @@ main {
     width: 100%;
     background: url('../images/morning-salutation.webp') no-repeat center center/cover;
     position: relative;
-    
+
 
 }
+
 /* Cover Text */
 #cover-text {
     color: white;
@@ -107,139 +108,7 @@ main {
 
 }
 
-/* History section */
-#history {
-    height: 80vh;
-    width: 100%;
-    background: url('../images/swirls.jpg') no-repeat center center/cover;
-    position: relative;
-
-}
-
-#history-cover-text {
-    color: white;
-    font-size: 130%;
-    padding-left: 25px;
-    padding-top: 20px;
-    width: 80%;
-    color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.6);
-
-}
-
-#what {
-    background-color: rgba(161, 104, 104, 0.5);
-    height: fit-content;
-    width: auto;
-    padding: 10% 5%;
-
-}
-
-img {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    width: 50%;
-  }   
-
-
-/* Joinus section */
-#joinus {
-    height: 80vh;
-    width: 100%;
-    background: url('../images/sunset.jpg') no-repeat center center/cover;
-    position: relative;
-    
-}
-
-#joinus-cover-text {
-    color: white;
-    font-size: 130%;
-    padding-left: 25px;
-    padding-top: 20px;
-    width: 80%;
-    color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.6);
-}
-
-#form {
-    background-color: rgba(161, 104, 104, 0.5);
-    height: fit-content;
-    width: 100%;
-    padding-left: 15%;
-
-}
-
-#form h2 {
-    display: flex;
-    align-items: center;
-}
-
-#sign-up {
-    width: 80%;
-}
-
-#location {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-#location p {
-    font-size: 16px;
-}
-
-.input {
-    margin-left: 10px;
-}
-
-#man {
-    margin-left: 14px;
-}
-
-#edin {
-    margin-left: 5px;
-}
-
-
-
-.join-button {
-    margin-top: 10px;
-    border-radius: 2px;
-    padding: 15px 32px;
-    font-size: 100%;
-    background-color: rgb(161, 104, 104);
-    text-align: center;
-    color: #fafafa;
-    margin-bottom: 10px;
-
-}
-.join-button:hover{
-    background-color: #fff;
-    color: rgb(161, 104, 104);
-}
-
-#information {
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-#classes {
-    display: table;
-    
-   
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-.radio {
-    display: flex;
-    justify-content: space-between;
-}
-
-/* Times Table */
+/* Times Table section */
 #timestable {
 
     width: 100%;
@@ -259,10 +128,11 @@ img {
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
     text-align: center;
-    
+
     flex-grow: 0;
     border: rgba(161, 104, 104, 0.6) solid 5px;
 }
+
 #timestable h2 {
     background-color: rgba(161, 104, 104, 0.5);
 }
@@ -270,25 +140,155 @@ img {
 .week {
     height: auto;
     flex-basis: 100%;
-    
-    
+
+
 }
 
 .sat,
 .sun {
     height: auto;
     flex-basis: 50%;
-    
-   
+
+}
+
+/* History section */
+#history {
+    height: 80vh;
+    width: 100%;
+    background: url('../images/swirls.jpg') no-repeat center center/cover;
+    position: relative;
+
+}
+
+/* History Cover Text */
+#history-cover-text {
+    color: white;
+    font-size: 130%;
+    padding-left: 25px;
+    padding-top: 20px;
+    width: 80%;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.6);
+
+}
+
+/* What section */
+#what {
+    background-color: rgba(161, 104, 104, 0.5);
+    height: fit-content;
+    width: auto;
+    padding: 10% 5%;
+
+}
+
+/* Image in history section */
+img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 50%;
+}
+
+
+/* Joinus section */
+#joinus {
+    height: 80vh;
+    width: 100%;
+    background: url('../images/sunset.jpg') no-repeat center center/cover;
+    position: relative;
+
+}
+
+/* joinus covet text */
+#joinus-cover-text {
+    color: white;
+    font-size: 130%;
+    padding-left: 25px;
+    padding-top: 20px;
+    width: 80%;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* Form section */
+#form {
+    background-color: rgba(161, 104, 104, 0.5);
+    height: fit-content;
+    width: 100%;
+    padding-left: 15%;
+}
+
+#form h2 {
+    display: flex;
+    align-items: center;
+}
+
+#sign-up {
+    width: 80%;
+}
+
+#location {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#location p {
+    font-size: 16px;
+}
+
+.input {
+    margin-left: 10px;
+}
+
+#man {
+    margin-left: 14px;
+}
+
+#edin {
+    margin-left: 5px;
+}
+
+.join-button {
+    margin-top: 10px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: rgb(161, 104, 104);
+    text-align: center;
+    color: #fafafa;
+    margin-bottom: 10px;
+
+}
+
+.join-button:hover {
+    background-color: #fff;
+    color: rgb(161, 104, 104);
+}
+
+#information {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#classes {
+    display: table;
+
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.radio {
+    display: flex;
+    justify-content: space-between;
 }
 
 /* Footer */
 
-/*footer {
-    bottom: 0;
-    position: fixed;
-    width: 100%
-}*/
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -310,38 +310,31 @@ img {
     header {
         padding: 6.25%;
     }
-    
+
     #cover-text {
         padding: 25px 20px 20px 25px;
     }
-       /* form */
-    
+
+    /* form */
 
     #sign-up {
         width: 80%;
     }
-    
 
-    #classes {
+    #location #classes {
         justify-content: flex-start;
     }
 
-    #location {
-        justify-content: flex-start;
-    }
 }
-
 
 @media screen and (min-width: 768px) {
 
     /* Header */
     header {
         padding: 6.5%;
-        background-color: rgb(161, 104, 104); 
-          
+        background-color: rgb(161, 104, 104);
     }
 
-    
     nav {
         font-size: 24px;
     }
@@ -362,22 +355,21 @@ img {
     #what {
         padding: 5% 5%;
     }
+
     img {
         width: 30%;
         margin-top: 40px;
-         }
-         #new {
-            margin-left: 5px;
-        }
-        #man {
-            margin-left: 5px;
-        }
+    }
+
+    #man #new {
+        margin-left: 5px;
+    }
+
 }
 
 @media screen and (min-width: 1024px) {
 
     /* Header */
-       
 
     #menu {
         font-size: 24px;
@@ -387,22 +379,18 @@ img {
         margin-top: 30px;
     }
 
-    #history {
+    #joinus #history {
         margin-top: 34px;
-
     }
+
     #what {
         padding: 2% 5%;
     }
-    
 
-    #joinus {
-        margin-top: 34px;
-    }
+
     img {
         width: 20%;
     }
-
 }
 
 @media screen and (min-width: 1440px) {
@@ -410,8 +398,8 @@ img {
     /* Header */
     header {
         padding-bottom: 75px;
-        padding-top: 45px;              
-    }    
+        padding-top: 45px;
+    }
 
     #menu {
         font-size: 32px;
@@ -420,7 +408,7 @@ img {
     main {
         display: flex;
         align-items: flex-start;
-    
+
     }
 
     #salutation {
@@ -451,39 +439,25 @@ img {
 
     }
 
-    
-    #history {
-       margin-top: 60px;
+
+    #form #joinus #what #history {
+        margin-top: 60px;
         height: 100vh;
         width: 50%;
     }
-
-    #what {
-        margin-top: 60px;
-        width: 50%;
-        height: 100vh;
-            }
 
     #what p {
         font-size: 16px;
         padding-top: 25px;
     }
-           img {
-            margin-top: 50px;
-            width: 50%;
-        
-            }
 
-    #joinus {
-        margin-top: 60px;
-        height: 100vh;
+    img {
+        margin-top: 50px;
         width: 50%;
+
     }
 
     #form {
-        width: 50%;
-        height: 100vh;
-        margin-top: 60px;
         padding-top: 10%;
     }
 
@@ -507,84 +481,72 @@ img {
         margin-top: 20px;
 
     }
-    footer {
-        bottom:0;
-        position:fixed;
-        width: 100%
-    }
-    
+
 }
+
 @media screen and (min-width: 2560px) {
     #salutation {
         margin-top: 100px;
         height: 97vh;
     }
 
-#who { 
-align-content:center;
-padding: 5%;
-font-size: 32px;
-}
+    #who {
+        align-content: center;
+        padding: 5%;
+        font-size: 32px;
+    }
 
-#timestable p {
-    font-size: 32px;
-}
-#joinus {
-    height: 100vh;
-}
-#form {
-    height: 100vh;
-}
+    #timestable p {
+        font-size: 32px;
+    }
 
-h2 {
-    font-size: 52px;
-}
+    #form #joinus {
+        height: 100vh;
+    }
 
-h3 {
-    font-size: 52px;
-}
+    h2 {
+        font-size: 52px;
+    }
 
-#what p {
-    font-size: 32px;
-}
-#history {
-    margin-top: 100px;
-}
-#what {
-    margin-top: 100px;
-    padding: 5% 5%;
-}
+    h3 {
+        font-size: 52px;
+    }
 
-img {
-    margin-top: 200px;
-}
-#joinus {
-    margin-top: 100px;
-}
-#form {
-    margin-top: 100px;
-}
-#information {
-font-size: 32px;
-}
-input {
-    height: 32px;
-}
-#location{
-    font-size: 32px;
-}
-#classes {
-    font-size: 32px;
-}
-.join-button {
-    font-size: 250%;
-    padding: 30px 64px;
-}
-#social-networks {
-    font-size: 52px;
-}
-#information p {
-    font-size: 32px;
-}
+    #what p {
+        font-size: 32px;
+    }
+
+    #form #joinus #what #history {
+        margin-top: 100px;
+    }
+
+    #what {
+        padding: 5% 5%;
+    }
+
+    img {
+        margin-top: 200px;
+    }
+
+    #classes #locatio #information {
+        font-size: 32px;
+    }
+
+    input {
+        height: 32px;
+    }
+
+    .join-button {
+        font-size: 250%;
+        padding: 30px 64px;
+    }
+
+    #social-networks {
+        font-size: 52px;
+    }
+
+    #information p {
+        font-size: 32px;
+    }
 
 }

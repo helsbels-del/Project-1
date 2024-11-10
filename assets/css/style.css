@@ -41,7 +41,7 @@ header a {
 
 h1 {
     color: #ffffff;
-    font-size: clamp(32px, 3vw, 82px);
+    font-size: clamp(2rem, 3vw, 5rem);
 
 }
 
@@ -51,13 +51,13 @@ nav {
     position: relative;
     width: 100%;
     margin-left: 4px;
-    font-size: 24px;
+    font-size: 2rem;
 
     /*display:none; */
 }
 
 #menu {
-    font-size: 100%;
+    font-size: 3rem;
     letter-spacing: 4px;
     list-style-type: none;
     justify-content: flex-start;
@@ -93,7 +93,7 @@ main {
 /* Cover Text */
 #cover-text {
     color: white;
-    font-size: 130%;
+    font-size: 4rem;
     padding: 15px 20px 15px 25px;
     width: 80%;
     color: #ffffff;
@@ -161,7 +161,7 @@ main {
 /* History Cover Text */
 #history-cover-text {
     color: white;
-    font-size: 130%;
+    font-size: 2rem;
     padding-left: 25px;
     padding-top: 20px;
     width: 80%;
@@ -201,7 +201,7 @@ img {
 /* joinus covet text */
 #joinus-cover-text {
     color: white;
-    font-size: 130%;
+    font-size: 2rem;
     padding-left: 25px;
     padding-top: 20px;
     width: 80%;
@@ -235,7 +235,7 @@ img {
 }
 
 #location p {
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 .input {
@@ -254,7 +254,7 @@ img {
     margin-top: 10px;
     border-radius: 2px;
     padding: 15px 32px;
-    font-size: 100%;
+    font-size: 2rem;
     background-color: #000;
     text-align: center;
     color: #fafafa;
@@ -295,7 +295,7 @@ img {
 }
 
 #social-networks i {
-    font-size: 160%;
+    font-size: 3rem;
     padding: 5%;
     color: rgb(255, 255, 255);
 }
@@ -337,11 +337,11 @@ img {
 
 
     nav {
-        font-size: 24px;
+        font-size: 1rem;
     }
 
     #menu {
-        font-size: 20px;
+        font-size: 1rem;
     }
 
     #salutation {
@@ -377,7 +377,7 @@ img {
 
 
     #menu {
-        font-size: 24px;
+        font-size: 2remx;
     }
 
     #salutation {
@@ -413,7 +413,7 @@ img {
     }
 
     #menu {
-        font-size: 32px;
+        font-size: 2rem;
     }
 
     main {
@@ -464,7 +464,7 @@ img {
     }
 
     #what p {
-        font-size: 16px;
+        font-size: 1rem;
         padding-top: 25px;
     }
 
@@ -525,11 +525,11 @@ img {
     #who {
         align-content: center;
         padding: 5%;
-        font-size: 32px;
+        font-size: 2rem;
     }
 
     #timestable p {
-        font-size: 32px;
+        font-size: 2rem;
     }
 
     #joinus {
@@ -541,15 +541,15 @@ img {
     }
 
     h2 {
-        font-size: 52px;
+        font-size: 3rem;
     }
 
     h3 {
-        font-size: 52px;
+        font-size: 3rem;
     }
 
     #what p {
-        font-size: 32px;
+        font-size: 2rem;
     }
 
     #history {
@@ -574,7 +574,7 @@ img {
     }
 
     #information {
-        font-size: 32px;
+        font-size: 2rem;
     }
 
     input {
@@ -582,24 +582,24 @@ img {
     }
 
     #location {
-        font-size: 32px;
+        font-size: 2rem;
     }
 
     #classes {
-        font-size: 32px;
+        font-size: 2rem;
     }
 
     .join-button {
-        font-size: 250%;
+        font-size: 5rem;
         padding: 30px 64px;
     }
 
     #social-networks {
-        font-size: 52px;
+        font-size: 3rem;
     }
 
     #information p {
-        font-size: 32px;
+        font-size: 2rem;
     }
    
 }

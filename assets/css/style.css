@@ -11,8 +11,7 @@
 /* General styles */
 body {
     min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+    line-height: 1.6;
     /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;

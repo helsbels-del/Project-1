@@ -48,7 +48,7 @@ h1 {
 /* Navbar */
 nav {
 
-    position: relative;
+   
     width: 100%;
     margin-left: 4px;
     font-size: 2rem;
@@ -69,6 +69,7 @@ nav {
 nav ul {
     display: flex;
     list-style-type: none;
+    flex-direction: column;
 }
 
 nav ul li {

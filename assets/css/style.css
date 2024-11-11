@@ -48,7 +48,7 @@ h1 {
 /* Navbar */
 nav {
 
-   
+    display: grid;
     width: 100%;
     margin-left: 4px;
     font-size: 2rem;
@@ -59,7 +59,7 @@ nav {
     font-size: 1.5rem;
     letter-spacing: 4px;
     list-style-type: none;
-    justify-content: flex-start;
+    justify-self: start;
 }
 
 #menu>li {
@@ -100,18 +100,26 @@ main {
     width: 100%;
     background: url('../images/morning-salutation.webp') no-repeat center center/cover;
     position: relative;
-
-
+    text-align: center;
 }
 
 /* Cover Text */
-#cover-text {
+/*#cover-text {
     color: white;
     font-size: 1rem;
     padding: 15px 20px 15px 25px;
     width: 100%;
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
+}*/
+#cover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 1.5em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 /*who are we section*/
@@ -130,12 +138,11 @@ main {
     background: url('../images/lakeview2.webp') no-repeat center center/cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bolder;
-    height: 300px;
     margin-bottom: 0;
     border-color: #ffffff;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 #timestable div {
@@ -143,10 +150,19 @@ main {
     background-color: rgba(0, 0, 0, 0.6);
     text-align: center;    
     border: rgba(161, 104, 104, 0.6) solid 5px;
+    width: 30%;
 }
 
 #timestable h2 {
     background-color: rgba(161, 104, 104, 0.5);
+}
+
+#timestable h3 {
+    font-size: 1.5em;
+}
+
+#timestable p {
+    font-size: 1.2em;
 }
 
 .week {
@@ -298,6 +314,13 @@ img {
 }
 
 /* Footer */
+
+footer {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
 
 #social-networks {
     text-align: center;

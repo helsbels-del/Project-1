@@ -28,10 +28,8 @@ header {
 }
 
 .flex-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
+    flex-direction: column;
+    margin-left: 30px;
 }
 
 header a {
@@ -48,11 +46,10 @@ h1 {
 /* Navbar */
 nav {
 
-    display: grid;
+    display: flex;
+    flex-direction: row;
     width: 100%;
-    margin-left: 4px;
-    font-size: 2rem;
-
+    margin-left: 4px;   
 }
 
 #menu {

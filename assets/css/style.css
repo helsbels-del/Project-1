@@ -578,7 +578,7 @@ footer {
 
 @media screen and (min-width: 2560px) {
     #salutation {
-        margin-top: 100px;
+       
         height: 97vh;
     }
 
@@ -612,25 +612,12 @@ footer {
         font-size: 2rem;
     }
 
-    #history {
-        margin-top: 100px;
-    }
-
-    #what {
-        margin-top: 100px;
+        #what {
         padding: 5% 5%;
     }
 
     img {
         margin-top: 200px;
-    }
-
-    #joinus {
-        margin-top: 100px;
-    }
-
-    #form {
-        margin-top: 100px;
     }
 
     #information {

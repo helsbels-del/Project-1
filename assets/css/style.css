@@ -105,15 +105,15 @@ main {
 }
 
 /* Cover Text */
-/*#cover-text {
+#cover-text {
     color: white;
     font-size: 1rem;
     padding: 15px 20px 15px 25px;
     width: 100%;
     color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.6);
-}*/
-#cover-text {
+    /*background-color: rgba(0, 0, 0, 0.6);*/
+}
+/*#cover-text {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -121,7 +121,7 @@ main {
     color: white;
     font-size: 1.5em;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-}
+}*/
 
 /*who are we section*/
 #who {
@@ -197,7 +197,7 @@ main {
     padding-top: 20px;
     width: 100%;
     color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.6);
+    /*background-color: rgba(0, 0, 0, 0.6); */   
 
 }
 
@@ -237,7 +237,9 @@ img {
     padding-top: 20px;
     width: 100%;
     color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.6);
+    /*background-color: rgba(0, 0, 0, 0.6);*/
+    
+    
 }
 
 /* Form section */

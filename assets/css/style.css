@@ -19,6 +19,8 @@ body {
 
 /* Header */
 header {
+    display: flex;
+    position: relative;
     background-color: rgb(161, 104, 104);
     padding: 3% 1rem;
     z-index: 99;
@@ -81,7 +83,9 @@ nav ul li a {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
-
+ a {
+    font-size: 1rem;
+ }
 
 /* Main Content */
 main {

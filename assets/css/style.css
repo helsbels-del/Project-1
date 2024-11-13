@@ -91,7 +91,7 @@ nav ul li a {
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: -20px;
+    /*margin-top: -20px;*/
 }
 
 
@@ -419,6 +419,9 @@ footer {
     #man {
         margin-left: 5px;
     }
+    main {
+        margin-top: -22px;
+    }
 }
 
 @media screen and (min-width: 1024px) {
@@ -450,6 +453,10 @@ footer {
 
     img {
         width: 20%;
+    }
+
+    main {
+        margin-top: -42px;
     }
 
 }
@@ -562,6 +569,9 @@ footer {
         bottom: 0;
         position: fixed;
         width: 100%
+    }
+    main {
+        margin-top: -62px;
     }
 
 }

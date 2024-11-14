@@ -456,6 +456,7 @@ footer {
 
     main {
         margin-top: -42px;
+        
     }
 
 }
@@ -503,6 +504,7 @@ footer {
         flex-direction: column;
         height: 95.7vh;
         width: 50%;
+        margin-top: 29px;
 
     }
 
@@ -571,6 +573,7 @@ footer {
     }
     main {
         margin-top: -62px;
+        margin-bottom: 30px;
     }
 
 }

@@ -487,13 +487,12 @@ footer {
 
     #who {
         background-color: rgba(161, 104, 104, 0.6);
-        height: 50%;
-       
+        height: 700px;       
         padding: 10%;
     }
 
     #timestable {
-        height: 50%;
+        height: 650px;
         width: auto;
         flex-basis: 70%;
         
@@ -545,11 +544,7 @@ footer {
         padding-top: 10%;
     }
 
-    h3 {
-        margin-top: 40px;
-    }
-
-    #sign-up h2 {
+       #sign-up h2 {
         margin-top: 50px;
     }
 

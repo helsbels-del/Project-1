@@ -488,11 +488,11 @@ footer {
     #who {
         background-color: rgba(161, 104, 104, 0.6);
         height: 700px;       
-        padding: 10%;
+        padding-bottom: 120px;
     }
 
     #timestable {
-        height: 650px;
+        
         width: auto;
         flex-basis: 70%;
         

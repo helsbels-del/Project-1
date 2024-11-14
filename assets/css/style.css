@@ -573,7 +573,7 @@ footer {
     }
     main {
         margin-top: -62px;
-        margin-bottom: 30px;
+        
     }
 
 }
@@ -646,10 +646,7 @@ footer {
     #information p {
         font-size: 2rem;
     }
-    main {
-      
-        margin-bottom: 60px;
-    }
+     
     #who-timestable {
         min-height: 100vh;
     }

@@ -568,7 +568,7 @@ footer {
 
     footer {
         bottom: 0;
-        position: fixed;
+       
         width: 100%
     }
     main {
@@ -652,7 +652,4 @@ footer {
         min-height: 100vh;
     }
 
-    main {
-        margin-bottom: 10rem;
-    }
 }

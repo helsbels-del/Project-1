@@ -51,7 +51,7 @@ nav {
     display: grid;
     flex-direction: row;
     width: 100%;
-    margin-left: 4px;   
+    margin-left: 4px;
 }
 
 #menu {
@@ -77,13 +77,14 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color:#000
+    color: #000
 }
 
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
- /*a {
+
+/*a {
     font-size: 1rem;
  }*/
 
@@ -113,6 +114,7 @@ main {
     color: #ffffff;
     /*background-color: rgba(0, 0, 0, 0.6);*/
 }
+
 /*#cover-text {
     position: absolute;
     top: 50%;
@@ -149,7 +151,7 @@ main {
 #timestable div {
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
-    text-align: center;    
+    text-align: center;
     border: rgba(161, 104, 104, 0.6) solid 5px;
     width: 30%;
 }
@@ -197,7 +199,7 @@ main {
     padding-top: 20px;
     width: 100%;
     color: #ffffff;
-    /*background-color: rgba(0, 0, 0, 0.6); */   
+    /*background-color: rgba(0, 0, 0, 0.6); */
 
 }
 
@@ -238,8 +240,8 @@ img {
     width: 100%;
     color: #ffffff;
     /*background-color: rgba(0, 0, 0, 0.6);*/
-    
-    
+
+
 }
 
 /* Form section */
@@ -375,20 +377,21 @@ footer {
 
     }
 
-    .flex-container{
+    .flex-container {
         flex-direction: column;
         align-items: flex-start;
     }
-    
+
     nav ul {
         display: flex;
         flex-direction: row;
         margin-top: 10px;
     }
+
     nav ul li {
         margin-bottom: 10px;
     }
-    
+
     #menu {
         font-size: 2rem;
     }
@@ -418,6 +421,7 @@ footer {
     #man {
         margin-left: 5px;
     }
+
     main {
         margin-top: -22px;
     }
@@ -456,7 +460,7 @@ footer {
 
     main {
         margin-top: -42px;
-        
+
     }
 
 }
@@ -487,15 +491,15 @@ footer {
 
     #who {
         background-color: rgba(161, 104, 104, 0.6);
-        height: 700px;       
+        height: 700px;
         padding-bottom: 120px;
     }
 
     #timestable {
-        
+
         width: auto;
         flex-basis: 70%;
-        
+
     }
 
     #who-timestable {
@@ -544,7 +548,7 @@ footer {
         padding-top: 10%;
     }
 
-       #sign-up h2 {
+    #sign-up h2 {
         margin-top: 50px;
     }
 
@@ -563,24 +567,19 @@ footer {
 
     footer {
         bottom: 0;
-       
+
         width: 100%
     }
+
     main {
         margin-top: -62px;
-      
-        
+
+
     }
 
 }
 
 @media screen and (min-width: 2560px) {
-    
-    #who {
-        align-content: center;
-        padding: 5%;
-        font-size: 2rem;
-    }
 
     #timestable p {
         font-size: 2rem;
@@ -598,7 +597,7 @@ footer {
         font-size: 3rem;
     }
 
-    h3 {
+    #timestable h3 {
         font-size: 3rem;
     }
 
@@ -606,7 +605,7 @@ footer {
         font-size: 2rem;
     }
 
-        #what {
+    #what {
         padding: 5% 5%;
     }
 
@@ -642,7 +641,7 @@ footer {
     #information p {
         font-size: 2rem;
     }
-     
+
     #who-timestable {
         min-height: 100vh;
     }

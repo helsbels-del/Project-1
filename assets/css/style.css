@@ -390,7 +390,7 @@ footer {
     }
     
     #menu {
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
     #salutation {
@@ -579,11 +579,7 @@ footer {
 }
 
 @media screen and (min-width: 2560px) {
-    #salutation {
-       
-        height: 97vh;
-    }
-
+    
     #who {
         align-content: center;
         padding: 5%;
@@ -653,5 +649,8 @@ footer {
     main {
       
         margin-bottom: 60px;
+    }
+    #who-timestable {
+        min-height: 100vh;
     }
 }

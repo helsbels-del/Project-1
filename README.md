@@ -6,17 +6,34 @@ The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created
 ### **Header**
 The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created a website for to help inform people about the history of Pilates and how it first came about and how, at the Moving Cat Pilates Studio’s around the UK, all the MC Pilates instructors, or the Elders, have been taught to the standards of Joseph Pilates who invented the Pilates moves back in the first world war helping injured soldiers. Aswell as being a club to join, via the join us page, and offering fixed classes and one-two-one sessions, the website includes a history page with a link to an informative animated video which tells the story of Pilates. It is targeted at a wide audience as Pilates is available for anyone at any level, from beginner to advanced. We offer a free taster session prior to joining so that the user can be sure it is something they would like to join and is important to introduce people who may not have done Pilates before and it can be quite a commitment to join a club without trying it first.
 
+I have update my website for a second submission, November 2024.
+
+I have used the I am responsive webite to show my website on different sized screens.
+
+![Am I Responsive](assets/images/amIresponsive.png)
+
+I have updated the header so that now on the smaller screens the nav bar is displayed vertically which looks much better rather than teh nav bar being spreadover two lines when it was horizontal on the smaller screens. See additional screen shots below of the new header layout. I also added the clamp funtion to the font size of the nav bar text, similar the the H!, so that the text size alters in response to the screen size. I also added the bold feature so that the active page is now written in bold.
+
 Header at 320px width
 
-![Header at 320px width](assets/images/header-320px.png)
+![Header at 320px width](assets/images/header_320px_2.png)
 
 Header at 768px width
 
-![Header at 768px width](assets/images/header-768px.png)
+![Header at 768px width](assets/images/header_768px_2.png)
 
 Header at 1024px width
 
-![Header at 1024px width](assets/images/header-1024px.png)
+![Header at 1024px width](assets/images/header_1024px_2.png)
+
+Header at 1440px width
+
+![Header at 1024px width](assets/images/header_1440px_2.png)
+
+Header at 1560px width
+
+![Header at 1024px width](assets/images/header_1560px_2.png)
+
 
 Background colour used rbg (161, 104, 104). I choose this as a nice earthy colour that fits the kind of colour scheme you would expect for a Pilates type of website. A calming colour that fits in with the other images throughout the website.
 I have used the same colour in the footer as the background to match the header.

@@ -279,8 +279,8 @@ img {
 }
 
 .join-button:hover {
-    background-color: #fff;
-    color: #000;
+    background-color: #fafafa;
+    color: rgb(161, 104, 104);
 }
 
 #information {

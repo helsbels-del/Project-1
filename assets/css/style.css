@@ -484,10 +484,10 @@ footer {
     }
 
     #salutation {
-        margin-top: 61px;
+       
         min-height: 100vh;
         width: 50%;
-        margin-bottom: -7px;
+      
     }
 
     #who {
@@ -531,7 +531,7 @@ footer {
     }
 
     img {
-        margin-top: 50px;
+        
         width: 50%;
 
     }
@@ -569,13 +569,12 @@ footer {
     footer {
         bottom: 0;
 
-        width: 100%
+        width: 100%;
     }
 
     main {
         margin-top: -62px;
-
-
+        align-items: flex-end;
     }
 
 }
@@ -646,5 +645,9 @@ footer {
     #who-timestable {
         min-height: 100vh;
     }
+    #salutation {
+        min-height: 102vh;
+    }
+   
 
 }

@@ -145,11 +145,11 @@ On larger screens this is to the side of the image.
 
 Form section on smaller screens
 
-![form](assets/images/form-small.png)
+![form](assets/images/joinus-form-mobile.png)
 
 Form section on larger screens
 
-![form](assets/images/form-large.png)
+![form](assets/images/joinus-form-laptop.png)
 
 **Future Features**
 
@@ -265,7 +265,7 @@ I have added method and action to my form so that the details are sent to https:
 I have altered the nav bar styling so that on smaller screens this is now verticle and on the larger screens this is still horizontal, however I have added the clamp function so that the text alters witht hte size of the screen. Also added the bold to the active page on the nav bar.
 
 My main challenge was the responsiveness when moving to screens 1440 and above. Here I was seeing whte spaces where they shouldn't be.
-After lots of playing around with padding and margins and section heights, I realised that I needed to chagne the flex poperty to flex end on the main to push the above sections down to the footer and then adjust the margins. Now the webpags look good on all screen sizes with no white spaces.
+After lots of playing around with padding and margins and section heights, I realised that I needed to change the flex property to flex end on the main section to push the above sections down to the footer and then adjust the margins at the top. Now the webpages look good on all screen sizes with no white spaces.
 
 I have now added the 'am I responsive' image to the start of this readme file.
 
@@ -293,7 +293,13 @@ See below for updated images of each page with the new cover text.
 
 
 
-I re ran the lighthouse application now that I have updated my project.
+I re-ran the lighthouse application now that I have updated my project.
 See below image for new and improved score.
 
 ![Lighthouse Results](assets/images/lighthouse.png)
+
+I also ran my css file through the CSS validator and found no errors.
+
+![CSS Validator](assets/images/css-validator2.png)
+
+I ran each of my html pages through the html validator. All pages had no errors however the main page and join us page both had a warning about lack of heading on a particular section, however I dont want to put a heading in these sections.

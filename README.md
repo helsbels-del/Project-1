@@ -8,11 +8,11 @@ The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created
 
 I have update my website for a second submission, November 2024.
 
-I have used the I am responsive webite to show my website on different sized screens.
+I have used the I am responsive website to show my website on different sized screens.
 
 ![Am I Responsive](assets/images/amIresponsive.png)
 
-I have updated the header so that now on the smaller screens the nav bar is displayed vertically which looks much better rather than teh nav bar being spreadover two lines when it was horizontal on the smaller screens. See additional screen shots below of the new header layout. I also added the clamp funtion to the font size of the nav bar text, similar the the H!, so that the text size alters in response to the screen size. I also added the bold feature so that the active page is now written in bold.
+I have updated the header so that now on the smaller screens the nav bar is displayed vertically which looks much better rather than the nav bar being spreadover two lines when it was horizontal on the smaller screens. See additional screen shots below of the new header layout. I also added the clamp funtion to the font size of the nav bar text, similar the the H!, so that the text size alters in response to the screen size. I also added the bold feature so that the active page is now written in bold.
 
 Header at 320px width
 
@@ -231,8 +231,13 @@ I have also tried compressing files.
 
 **Deployment**
 
-To deploy my project, I went to my Github repository and in the settings tab, I selected the Master Branch and waited for my project to be deployed.
-Here is the link:
+
+I deployed my website on GitHub pages via the following procedure:
+ - From the project repository, I went to the settings tab.
+ - From the left hand pages, I selected the pages tab.
+ - From the sourc section, I selected the main branch from the drop-down menu and then saved.
+ - A message was displayed indicating the successful deployment.
+Here is the link to my website: https://helsbels-del.github.io/Project-1/
 
 
 **Credits**

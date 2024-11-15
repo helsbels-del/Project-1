@@ -153,9 +153,9 @@ Form section on larger screens
 
 **Future Features**
 
-I would like to improve on my website in the future by aking sure all the image files are compressed to help with the page loading times.
+I would like to improve on my website in the future by making sure all the image files are compressed to help with the page loading times.
 The plan is to add more classes and some testimonials from customers goinf forward.
-Currently the socail media icons lead to the sign up pages for those companies however the aim would be to have dedicated Movinf Cat pages to navigate to in the future.
+Currently the social media icons lead to the sign up pages for those companies however the aim would be to have dedicated Moving Cat pages to navigate to in the future.
 
 **Testing**
 
@@ -226,7 +226,7 @@ My CSS style sheet passed the official W3C vlaidator.
 
 **Unfixed Bugs**
 
-From my Lighthouse Performance score I can see there is an issue with my images and he speed of how they load. I have triied to rectify this by changing the jpg files to webo files. This did not help. I then added the tag loading="eager", but this didn't work either.
+From my Lighthouse Performance score I can see there is an issue with my images and he speed of how they load. I have tried to rectify this by changing the jpg files to webo files. This did not help. I then added the tag loading="eager", but this didn't work either.
 I have also tried compressing files.
 
 **Deployment**
@@ -235,16 +235,22 @@ To deploy my project, I went to my Github repository and in the settings tab, I 
 Here is the link:
 
 
-Credits
+**Credits**
 
 I used tinypng.com for compressing images
+
 I used freeconvert.com/jpg-to-webp to cconvert my jpg images to webp images
+
 I used Pexel.com for all of my images
+
 I uses font awesome for my social media icons
+
 I used google font for fonts
+
 I used wikipedia for text about the history of Pliates
+
 I used youTube for a video about Joseph Pilates
 
+I would also like to thank my friends and the support team at the Code Institute for looking at my website and giving feedback on how to improve things as I've been moving along and also pointing out bugs that were seen on other peoples screens that I could not see.
 
-
-
+**Bugs fixed for my second submission**

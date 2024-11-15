@@ -77,11 +77,14 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #000
+    color: #000;
+    font-size: clamp(1rem, 2vw, 3rem)
 }
+
 
 .active {
     border-bottom: 1px solid #3a3a3a;
+    font-weight:bolder ;
 }
 
 /* Salutation section */

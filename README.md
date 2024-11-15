@@ -254,3 +254,13 @@ I used youTube for a video about Joseph Pilates
 I would also like to thank my friends and the support team at the Code Institute for looking at my website and giving feedback on how to improve things as I've been moving along and also pointing out bugs that were seen on other peoples screens that I could not see.
 
 **Bugs fixed for my second submission**
+
+I have added method and action to my form so that the details are sent to https://formdump.codeinstitute.net/
+
+I have altered the nav bar styling so that on smaller screens this is now verticle and on the larger screens this is still horizontal, however I have added the clamp function so that the text alters witht hte size of the screen. Also added the bold to the active page on the nav bar.
+
+My main challenge was the responsiveness when moving to screens 1440 and above. Here I was seeing whte spaces where they shouldn't be.
+After lots of playing around with padding and margins and section heights, I realised that I needed to chagne the flex poperty to flex end on the main to push the above sections down to the footer and then adjust the margins. Now the webpags look good on all screen sizes with no white spaces.
+
+I have now added the 'am I responsive' image to the start of this readme file.
+

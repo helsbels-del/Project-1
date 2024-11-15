@@ -293,3 +293,7 @@ See below for updated images of each page with the new cover text.
 
 
 
+I re ran the lighthouse application now that I have updated my project.
+See below image for new and improved score.
+
+![Lighthouse Results](assets/images/lighthouse.png)

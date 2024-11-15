@@ -2,17 +2,17 @@
 ## **Introduction**
 The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created a website for to help inform people about the history of Pilates and how it first came about and how, at the Moving Cat Pilates Studio’s around the UK, all the MC Pilates instructors, or the Elders, have been taught to the standards of Joseph Pilates who invented the Pilates moves back in the first world war helping injured soldiers. Aswell as being a club to join, via the join us page, and offering fixed classes and one-two-one sessions, the website includes a history page with a link to an informative animated video which tells the story of Pilates. It is targeted at a wide audience as Pilates is available for anyone at any level, from beginner to advanced. We offer a free taster session prior to joining so that the user can be sure it is something they would like to join and is important to introduce people who may not have done Pilates before and it can be quite a commitment to join a club without trying it first. 
 
-## **My starting website features**
-### **Header**
-The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created a website for to help inform people about the history of Pilates and how it first came about and how, at the Moving Cat Pilates Studio’s around the UK, all the MC Pilates instructors, or the Elders, have been taught to the standards of Joseph Pilates who invented the Pilates moves back in the first world war helping injured soldiers. Aswell as being a club to join, via the join us page, and offering fixed classes and one-two-one sessions, the website includes a history page with a link to an informative animated video which tells the story of Pilates. It is targeted at a wide audience as Pilates is available for anyone at any level, from beginner to advanced. We offer a free taster session prior to joining so that the user can be sure it is something they would like to join and is important to introduce people who may not have done Pilates before and it can be quite a commitment to join a club without trying it first.
-
 I have update my website for a second submission, November 2024.
 
 I have used the I am responsive website to show my website on different sized screens.
 
 ![Am I Responsive](assets/images/amIresponsive.png)
 
-I have updated the header so that now on the smaller screens the nav bar is displayed vertically which looks much better rather than the nav bar being spreadover two lines when it was horizontal on the smaller screens. See additional screen shots below of the new header layout. I also added the clamp funtion to the font size of the nav bar text, similar the the H!, so that the text size alters in response to the screen size. I also added the bold feature so that the active page is now written in bold.
+## **My starting website features**
+### **Header**
+The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created a website for to help inform people about the history of Pilates and how it first came about and how, at the Moving Cat Pilates Studio’s around the UK, all the MC Pilates instructors, or the Elders, have been taught to the standards of Joseph Pilates who invented the Pilates moves back in the first world war helping injured soldiers. Aswell as being a club to join, via the join us page, and offering fixed classes and one-two-one sessions, the website includes a history page with a link to an informative animated video which tells the story of Pilates. It is targeted at a wide audience as Pilates is available for anyone at any level, from beginner to advanced. We offer a free taster session prior to joining so that the user can be sure it is something they would like to join and is important to introduce people who may not have done Pilates before and it can be quite a commitment to join a club without trying it first.
+
+I have now updated the header so that now on the smaller screens the nav bar is displayed vertically which looks much better rather than the nav bar being spreadover two lines when it was horizontal on the smaller screens. See additional screen shots below of the new header layout. I also added the clamp funtion to the font size of the nav bar text, similar the the H!, so that the text size alters in response to the screen size. I also added the bold feature so that the active page is now written in bold.
 
 Header at 320px width
 
@@ -58,6 +58,7 @@ Home page background image with cover text on larger screens
 
 ![salutation pose](<assets/images/homepage-img large.png>)
 
+I recieved feedback that this cover text didn't look correct so I have now reoved the background block and added a width of 100% to the cover text and also centered the text. These images are further down in this document.
 
 **Who are we section**
 
@@ -112,6 +113,8 @@ History page background image larger screens
 
 ![swirl](assets/images/history-background-image-large.png)
 
+Again, the cover text on this page has been changed and these images can be found further on in this document.
+
 **The What section**
 
 
@@ -139,6 +142,8 @@ Join Us page image on larger screens
 
 ![sunset](<assets/images/joinus-backround-image large.png>)
 
+Again, the cover text on this page has been changed and these images can be found further on in this document.
+
 Underneath this image on smaller screens, is the form to fill out with full name and email address, choose which location the user is in and which class time the user would like for their free taster session.
 On larger screens this is to the side of the image.
 
@@ -154,7 +159,7 @@ Form section on larger screens
 **Future Features**
 
 I would like to improve on my website in the future by making sure all the image files are compressed to help with the page loading times.
-The plan is to add more classes and some testimonials from customers goinf forward.
+The plan is to add more classes and some testimonials from customers going forward.
 Currently the social media icons lead to the sign up pages for those companies however the aim would be to have dedicated Moving Cat pages to navigate to in the future.
 
 **Testing**
@@ -164,6 +169,8 @@ I have tested that the navigation bar works on all screens and that clicking on 
 On the History page there is a link to an informative video on YouTube.
 I have tested the form page. As this is my first project, this is not set up to actual collect the data however the fields can be filled in and submitted, then when the page is refreshed the information is cleared.
 If you try to submit the form without entering all the required information, a warning message is seen.
+
+I have update the form so that now when you submit it, you get a message to say the form has been filled out correctly.
 
 Message if you don't select a location
 
@@ -198,7 +205,6 @@ I have checked that all my pages are responsive on-screen sizes:
 320px, 425px, 768px, 1024px, 1440px and 2560px
 
 I have checked them in Enterprise and Firefox browsers as well as the Google browser I use myself. 
-The pages look best on Google and Enterprise.
 
 **HTML Validator testing**
 
@@ -235,7 +241,7 @@ I have also tried compressing files.
 I deployed my website on GitHub pages via the following procedure:
  - From the project repository, I went to the settings tab.
  - From the left hand pages, I selected the pages tab.
- - From the sourc section, I selected the main branch from the drop-down menu and then saved.
+ - From the source section, I selected the main branch from the drop-down menu and then saved.
  - A message was displayed indicating the successful deployment.
 Here is the link to my website: https://helsbels-del.github.io/Project-1/
 

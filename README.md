@@ -264,3 +264,27 @@ After lots of playing around with padding and margins and section heights, I rea
 
 I have now added the 'am I responsive' image to the start of this readme file.
 
+I also changed the cover text after feedback that it didnt look good the way it was.
+I took out the background colour and gave a width of 100%, then centered the text. This doesn't quite look right onhte history page mobile size, however I can't see how to change this as when I change from align-text centre to align-text left, It doesnt do anything.
+See below for updated images of each page with the new cover text.
+
+![Cover Text Main Page Mobile Screen](assets/images/salutation2.png)
+
+![Cover Text History Page Mobile Screen](assets/images/history2.png)
+
+![Cover Text Join Us Page Mobile Screen](assets/images/joinus2.png)
+
+![Cover Text Main Page Laptop Screen](assets/images/salutation2-laptop.png)
+
+![Cover Text History Page Laptop Screen](assets/images/history2-laptop.png)
+
+![Cover Text Join Us Page Laptop Screen](assets/images/joinus2-laptop.png)
+
+![Cover Text Main Page PC Screen](assets/images/salutation2-pc.png)
+
+![Cover Text History Page PC Screen](assets/images/history2-pc.png)
+
+![Cover Text Join Us Page PC Screen](assets/images/joinus2-pc.png)
+
+
+

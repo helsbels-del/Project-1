@@ -487,6 +487,7 @@ footer {
         margin-top: 61px;
         min-height: 100vh;
         width: 50%;
+        margin-bottom: -7px;
     }
 
     #who {

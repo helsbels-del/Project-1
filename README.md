@@ -39,23 +39,23 @@ The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created
 
 I have now updated the header so that now on the smaller screens the nav bar is displayed vertically which looks much better rather than the nav bar being spreadover two lines when it was horizontal on the smaller screens. See additional screen shots below of the new header layout. I also added the clamp funtion to the font size of the nav bar text, similar the the H!, so that the text size alters in response to the screen size. I also added the bold feature so that the active page is now written in bold.
 
-Header at 320px width
+#### **Header at 320px width**
 
 ![Header at 320px width](assets/images/header_320px_2.png)
 
-Header at 768px width
+#### **Header at 768px width**
 
 ![Header at 768px width](assets/images/header_768px_2.png)
 
-Header at 1024px width
+#### **Header at 1024px width**
 
 ![Header at 1024px width](assets/images/header_1024px_2.png)
 
-Header at 1440px width
+#### **Header at 1440px width**
 
 ![Header at 1024px width](assets/images/header_1440px_2.png)
 
-Header at 1560px width
+#### **Header at 1560px width**
 
 ![Header at 1024px width](assets/images/header_1560px_2.png)
 
@@ -73,13 +73,13 @@ I have included a background image of a silhouette of someone performing a well-
 There is cover text overlaid on top of the image with a background effect to help the words stand out. Although the words on the home page would stand out ok against the background where it is positioned, I have included the background colour to match the History and Join Us pages which also have cover text and need the background colour to make the text stand out enough.
 The cover text is a quote from Joseh Pilates, the founder of Pilates. I have put a quote from Joseh Pilates on each of the pages for consistency and to give the end user an interesting quote to read on each page to keep them interested.
 
-Home page background image with cover text on smaller screens
+#### **Home page background image with cover text on smaller screens**
 
 
 ![salutation pose](assets/images/homepage-img.png)
 
 
-Home page background image with cover text on larger screens
+#### **Home page background image with cover text on larger screens**
 
 ![salutation pose](<assets/images/homepage-img large.png>)
 
@@ -91,11 +91,11 @@ I recieved feedback that this cover text didn't look correct so I have now reove
 Underneath the salutation image is a section with information about the club. The user will learn the locations of the studios and be interested to know that they can learn some of the history of Pilates by navigating to the History page. 
 The background colour used here is rgba (161, 104, 104, 0.6) to give the same tone as the header and footer but lighter so that the black text stands out better and matches the tone of the header and footer colour.
 
-Who Section on smaller screens
+#### **Who Section on smaller screens**
 
 ![who-section-small](assets/images/who-section-small.png)
 
-Who section on larger screens
+#### **Who section on larger screens**
 
 ![who-section-large](assets/images/who-section-large.png)
 
@@ -105,11 +105,11 @@ Who section on larger screens
 In this section users are given the times that are held in the studios around the UK.
 I have used a calming background image with colours that go well with the background colour that is used in the header and footer and the who section above.
 
-Timestable on smaller screens
+#### **Timestable on smaller screens**
 
 ![class times](assets/images/timestable-small.png)
 
-Timestable on large screens
+#### **Timestable on large screens**
 
 ![class times](assets/images/timestable-large.png)
 
@@ -118,10 +118,10 @@ Timestable on large screens
 
 The footer includes links to the common social media pages that are important to the users. These links all open new pages so as not to take the user away from the Moving Cat website page. As mentioned, the background colour here matches the header and the social media icons are in white to stand out and match the text colour in the header for consistency and appealing aesthetics.
 
-Footer on smaller screens
+#### **Footer on smaller screens**
 ![footer small](assets/images/footer-small.png)
 
-Footer on larger screens
+#### **Footer on larger screens**
 ![footer large](assets/images/footer-large.png)
 
 ## **History Page**
@@ -131,11 +131,11 @@ Users are reminded on the home page to navigate to the History page to find out 
 
  This page contains a background image with some cover text which is again a quote from Joseph Plates. This shows consistency throughout the website as the user navigates from page to page, they see the same layout which keeps things easier to take notice of. The image is a swirling pattern, giving the end user a relaxing feeling and again the colours of this image work well with the colours in the heading and of the background section below in the ‘what’ section.
 
-History page background image smaller screens
+#### **History page background image smaller screens**
 
 ![swirl](assets/images/history-background-image.png)
 
-History page background image larger screens
+#### **History page background image larger screens**
 
 ![swirl](assets/images/history-background-image-large.png)
 
@@ -160,11 +160,11 @@ This is an informative page for the users, to let them know the history of the c
 
 The final page to navigate to, is the join us page where users can sign up for a free taster session. There is an image of a beautiful sunset, where the user can imagine they are doing Pilates, and again another quote from Joseph Pilates is written as cover text over the image.
 
-Join us page image on smaller screens
+#### **Join us page image on smaller screens**
 
 ![sunset](assets/images/joinus-backround-image.png)
 
-Join Us page image on larger screens
+#### **Join Us page image on larger screens**
 
 ![sunset](<assets/images/joinus-backround-image large.png>)
 
@@ -174,11 +174,11 @@ Underneath this image on smaller screens, is the form to fill out with full name
 On larger screens this is to the side of the image.
 
 
-Form section on smaller screens
+#### **Form section on smaller screens**
 
 ![form](assets/images/joinus-form-mobile.png)
 
-Form section on larger screens
+#### **Form section on larger screens**
 
 ![form](assets/images/joinus-form-laptop.png)
 
@@ -198,31 +198,31 @@ If you try to submit the form without entering all the required information, a w
 
 I have update the form so that now when you submit it, you get a message to say the form has been filled out correctly.
 
-Message if you don't select a location
+#### **Message if you don't select a location**
 
 ![error message](assets/images/select-one-option.png)
 
-Message if you don't select a class time
+#### **Message if you don't select a class time**
 
 ![error message](assets/images/select-one-option-2.png)
 
-Message if you don't fill out the name fields
+#### **Message if you don't fill out the name fields**
 
 ![error message](assets/images/fill-out-form.png)
 
-Message if you don't write an email address in the email input box
+#### **Message if you don't write an email address in the email input box**
 
 ![error message](assets/images/email-include.png)
 
-The Let's Join button at the bottom of the form changes color when the user hovers over it.
+The Let's Join button at the bottom of the form changes color when the user hovers over it
 
 
-Before mouse hover over button
+#### **Before mouse hover over button**
 
 
 ![join us button](assets/images/lets-join.png)
 
-With mouse hover over button
+#### **With mouse hover over button**
 
 ![join us button hover](assets/images/lets-join-hover.png)
 
@@ -305,21 +305,39 @@ I also changed the cover text after feedback that it didnt look good the way it 
 I took out the background colour and gave a width of 100%, then centered the text. This doesn't quite look right onhte history page mobile size, however I can't see how to change this as when I change from align-text centre to align-text left, It doesnt do anything.
 See below for updated images of each page with the new cover text.
 
+#### **Main page on mobile screen 320px wide.**
+
 ![Cover Text Main Page Mobile Screen](assets/images/salutation2.png)
+
+#### **History page on mobile screen 320px wide.**
 
 ![Cover Text History Page Mobile Screen](assets/images/history2.png)
 
+#### **Join us page on mobile screen 320px wide.**
+
 ![Cover Text Join Us Page Mobile Screen](assets/images/joinus2.png)
+
+#### **Main page laptop screen 768px wide.**
 
 ![Cover Text Main Page Laptop Screen](assets/images/salutation2-laptop.png)
 
+#### **History page laptop screen 768px wide.**
+
 ![Cover Text History Page Laptop Screen](assets/images/history2-laptop.png)
+
+#### **Join us page laptop screen 786px wide.**
 
 ![Cover Text Join Us Page Laptop Screen](assets/images/joinus2-laptop.png)
 
+#### **Main page on PC screen 1440px wide.**
+
 ![Cover Text Main Page PC Screen](assets/images/salutation2-pc.png)
 
+#### **History page on mobile screen 1440px wide.**
+
 ![Cover Text History Page PC Screen](assets/images/history2-pc.png)
+
+#### **Join us page on mobile screen 1440px wide.**
 
 ![Cover Text Join Us Page PC Screen](assets/images/joinus2-pc.png)
 
@@ -328,7 +346,17 @@ See below for updated images of each page with the new cover text.
 I re-ran the lighthouse application now that I have updated my project.
 See below image for new and improved score.
 
-![Lighthouse Results](assets/images/lighthouse.png)
+#### **Lighthoue results for main page**
+
+![Lighthouse results](assets/images/lighthouse.png)
+
+#### **Lighthouse results for History page**
+
+![Lighthouse results History page](assets/images/lighthouse-history.png)
+
+#### **Lighthouse rsults for Join us page**
+
+![Lighthouse results Join us page ](assets/images/lighthouse-joinus.png)
 
 I also ran my css file through the CSS validator and found no errors.
 

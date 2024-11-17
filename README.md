@@ -1,4 +1,29 @@
 # **Moving Cat Pilates Studio**
+
+## **Table of Contents**
+
+1. [**Introduction**](#introduction)
+
+2. [**My starting website features**](#my-starting-website-features)
+   - [**Header**](#header)
+   - [**Index/Home page image**](#indexhome-page-image)
+   - [**Who are we section**](#who-are-we-section)
+   - [**Timestable section**](#times-table-section)
+   - [**The Footer**](#the-footer)
+   - [**History page**](#history-page)
+   - [**The what section**](#the-what-section)
+   - [**The join us page**](#the-join-us-page)
+3. [**Future features**](#future-features)
+4. [**Testing**](#testing)
+   - [**HTML validator testing**](#html-validator-testing)
+   - [**CSS Validator testing**](#css-validator-testing)
+   - [**Lighthouse report**](#lighthouse-report)
+5. [**Unfixed bugs**](#unfixed-bugs)
+6. [**Deployment**](#deployment)
+7. [**Credits**](#credits)
+8. [**Bugs fixed for my second submission**](#bugs-fixed-for-my-second-submission)
+
+
 ## **Introduction**
 The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created a website for to help inform people about the history of Pilates and how it first came about and how, at the Moving Cat Pilates Studio’s around the UK, all the MC Pilates instructors, or the Elders, have been taught to the standards of Joseph Pilates who invented the Pilates moves back in the first world war helping injured soldiers. Aswell as being a club to join, via the join us page, and offering fixed classes and one-two-one sessions, the website includes a history page with a link to an informative animated video which tells the story of Pilates. It is targeted at a wide audience as Pilates is available for anyone at any level, from beginner to advanced. We offer a free taster session prior to joining so that the user can be sure it is something they would like to join and is important to introduce people who may not have done Pilates before and it can be quite a commitment to join a club without trying it first. 
 
@@ -41,7 +66,7 @@ I have used the same colour in the footer as the background to match the header.
 The Nav bar links to my other pages. The History page and the Join Us page.
 This is in the same place on each page for consistency and makes it easy for the user to navigate from each page in the same way.
 
-**Index/Home page image**
+## **Index/Home page image**
 
 I have included a background image of a silhouette of someone performing a well-known Salutation pose which will let people know straight away that the site is related to the Pilates/Yoga type industry. The colours and image give this calming effect also.
 
@@ -60,7 +85,7 @@ Home page background image with cover text on larger screens
 
 I recieved feedback that this cover text didn't look correct so I have now reoved the background block and added a width of 100% to the cover text and also centered the text. These images are further down in this document.
 
-**Who are we section**
+## **Who are we section**
 
 
 Underneath the salutation image is a section with information about the club. The user will learn the locations of the studios and be interested to know that they can learn some of the history of Pilates by navigating to the History page. 
@@ -74,7 +99,7 @@ Who section on larger screens
 
 ![who-section-large](assets/images/who-section-large.png)
 
-**Times table section**
+## **Times table section**
 
 
 In this section users are given the times that are held in the studios around the UK.
@@ -85,9 +110,10 @@ Timestable on smaller screens
 ![class times](assets/images/timestable-small.png)
 
 Timestable on large screens
+
 ![class times](assets/images/timestable-large.png)
 
-**The Footer**
+## **The Footer**
 
 
 The footer includes links to the common social media pages that are important to the users. These links all open new pages so as not to take the user away from the Moving Cat website page. As mentioned, the background colour here matches the header and the social media icons are in white to stand out and match the text colour in the header for consistency and appealing aesthetics.
@@ -98,7 +124,7 @@ Footer on smaller screens
 Footer on larger screens
 ![footer large](assets/images/footer-large.png)
 
-**History Page**
+## **History Page**
 
 
 Users are reminded on the home page to navigate to the History page to find out more about Joseph Pilates, the founder of Pilates moves.
@@ -115,7 +141,7 @@ History page background image larger screens
 
 Again, the cover text on this page has been changed and these images can be found further on in this document.
 
-**The What section**
+## **The What section**
 
 
 Here is a blurb about how Pilates was first developed and contains a link to a short, animated film about the history of Joseph Pilates. The user neds to click on the name Joseph Pilates which I have turned into a link to take you to a new page where the YouTube video is played.
@@ -129,7 +155,7 @@ Also an image of Joseph Pilates using one of his pieces of equipment back in the
 
 This is an informative page for the users, to let them know the history of the classes they will be signing up for and how Pilates is also very beneficial towards health and flexibility.
 
-**The Join us page**
+## **The Join us page**
 
 
 The final page to navigate to, is the join us page where users can sign up for a free taster session. There is an image of a beautiful sunset, where the user can imagine they are doing Pilates, and again another quote from Joseph Pilates is written as cover text over the image.
@@ -156,13 +182,13 @@ Form section on larger screens
 
 ![form](assets/images/joinus-form-laptop.png)
 
-**Future Features**
+## **Future Features**
 
 I would like to improve on my website in the future by making sure all the image files are compressed to help with the page loading times.
 The plan is to add more classes and some testimonials from customers going forward.
 Currently the social media icons lead to the sign up pages for those companies however the aim would be to have dedicated Moving Cat pages to navigate to in the future.
 
-**Testing**
+## **Testing**
 
 
 I have tested that the navigation bar works on all screens and that clicking on the Moving Cat Pilates Studio header on any screen takes you back to the home page as it should. All the links in the footer work on every page and take you to the sign-up page for each of the social media sites. I have checked the links on each page.
@@ -206,7 +232,7 @@ I have checked that all my pages are responsive on-screen sizes:
 
 I have checked them in Enterprise and Firefox browsers as well as the Google browser I use myself. 
 
-**HTML Validator testing**
+## **HTML Validator testing**
 
 I ran my 3 html pages throught the official W3C HTML validator.
 
@@ -220,22 +246,22 @@ Both the index.html and history.html passed with no errors, however they both sh
 ![stray-footer-tag](assets/images/footer-error.png)
 
 
-**CSS Validator testing**
+## **CSS Validator testing**
 
 My CSS style sheet passed the official W3C vlaidator.
 
 ![CSS validator results](assets/images/CSS-validator.png)
 
-**Lighthouse report**
+## **Lighthouse report**
 
 ![lighthouse report](assets/images/lighthouse-validator.png)
 
-**Unfixed Bugs**
+## **Unfixed Bugs**
 
 From my Lighthouse Performance score I can see there is an issue with my images and he speed of how they load. I have tried to rectify this by changing the jpg files to webo files. This did not help. I then added the tag loading="eager", but this didn't work either.
 I have also tried compressing files.
 
-**Deployment**
+## **Deployment**
 
 
 I deployed my website on GitHub pages via the following procedure:
@@ -246,7 +272,7 @@ I deployed my website on GitHub pages via the following procedure:
 Here is the link to my website: https://helsbels-del.github.io/Project-1/
 
 
-**Credits**
+## **Credits**
 
 I used tinypng.com for compressing images
 
@@ -264,7 +290,7 @@ I used youTube for a video about Joseph Pilates
 
 I would also like to thank my friends and the support team at the Code Institute for looking at my website and giving feedback on how to improve things as I've been moving along and also pointing out bugs that were seen on other peoples screens that I could not see.
 
-**Bugs fixed for my second submission**
+## **Bugs fixed for my second submission**
 
 I have added method and action to my form so that the details are sent to https://formdump.codeinstitute.net/
 

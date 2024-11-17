@@ -27,6 +27,8 @@
 ## **Introduction**
 The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created a website for to help inform people about the history of Pilates and how it first came about and how, at the Moving Cat Pilates Studio’s around the UK, all the MC Pilates instructors, or the Elders, have been taught to the standards of Joseph Pilates who invented the Pilates moves back in the first world war helping injured soldiers. Aswell as being a club to join, via the join us page, and offering fixed classes and one-two-one sessions, the website includes a history page with a link to an informative animated video which tells the story of Pilates. It is targeted at a wide audience as Pilates is available for anyone at any level, from beginner to advanced. We offer a free taster session prior to joining so that the user can be sure it is something they would like to join and is important to introduce people who may not have done Pilates before and it can be quite a commitment to join a club without trying it first. 
 
+##### **Second submission update**
+
 I have update my website for a second submission, November 2024.
 
 I have used the I am responsive website to show my website on different sized screens.
@@ -36,6 +38,8 @@ I have used the I am responsive website to show my website on different sized sc
 ## **My starting website features**
 ### **Header**
 The Moving Cat Pilates Studio, is a fictional Pilates Studio that I have created a website for to help inform people about the history of Pilates and how it first came about and how, at the Moving Cat Pilates Studio’s around the UK, all the MC Pilates instructors, or the Elders, have been taught to the standards of Joseph Pilates who invented the Pilates moves back in the first world war helping injured soldiers. Aswell as being a club to join, via the join us page, and offering fixed classes and one-two-one sessions, the website includes a history page with a link to an informative animated video which tells the story of Pilates. It is targeted at a wide audience as Pilates is available for anyone at any level, from beginner to advanced. We offer a free taster session prior to joining so that the user can be sure it is something they would like to join and is important to introduce people who may not have done Pilates before and it can be quite a commitment to join a club without trying it first.
+
+##### **Second submission update**
 
 I have now updated the header so that now on the smaller screens the nav bar is displayed vertically which looks much better rather than the nav bar being spreadover two lines when it was horizontal on the smaller screens. See additional screen shots below of the new header layout. I also added the clamp funtion to the font size of the nav bar text, similar the the H!, so that the text size alters in response to the screen size. I also added the bold feature so that the active page is now written in bold.
 
@@ -82,6 +86,8 @@ The cover text is a quote from Joseh Pilates, the founder of Pilates. I have put
 #### **Home page background image with cover text on larger screens**
 
 ![salutation pose](<assets/images/homepage-img large.png>)
+
+##### **Second submission update**
 
 I recieved feedback that this cover text didn't look correct so I have now reoved the background block and added a width of 100% to the cover text and also centered the text. These images are further down in this document.
 
@@ -139,6 +145,8 @@ Users are reminded on the home page to navigate to the History page to find out 
 
 ![swirl](assets/images/history-background-image-large.png)
 
+##### **Second submission update**
+
 Again, the cover text on this page has been changed and these images can be found further on in this document.
 
 ## **The What section**
@@ -168,6 +176,8 @@ The final page to navigate to, is the join us page where users can sign up for a
 
 ![sunset](<assets/images/joinus-backround-image large.png>)
 
+##### **Second submission update**
+
 Again, the cover text on this page has been changed and these images can be found further on in this document.
 
 Underneath this image on smaller screens, is the form to fill out with full name and email address, choose which location the user is in and which class time the user would like for their free taster session.
@@ -196,7 +206,12 @@ On the History page there is a link to an informative video on YouTube.
 I have tested the form page. As this is my first project, this is not set up to actual collect the data however the fields can be filled in and submitted, then when the page is refreshed the information is cleared.
 If you try to submit the form without entering all the required information, a warning message is seen.
 
-I have update the form so that now when you submit it, you get a message to say the form has been filled out correctly.
+##### **Second submission update**
+
+I have updated the form so that now when you submit it, you get a message to say the form has been filled out correctly and it is posted to the codeinstitute dumpdata address.
+See below for image of message shown on completeion of the join us form.
+
+![Sign up message](assets/images/sign-up-message.png)
 
 #### **Message if you don't select a location**
 
@@ -341,12 +356,10 @@ See below for updated images of each page with the new cover text.
 
 ![Cover Text Join Us Page PC Screen](assets/images/joinus2-pc.png)
 
-
-
 I re-ran the lighthouse application now that I have updated my project.
 See below image for new and improved score.
 
-#### **Lighthoue results for main page**
+#### **Lighthouse results for main page**
 
 ![Lighthouse results](assets/images/lighthouse.png)
 

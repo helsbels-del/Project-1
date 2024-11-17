@@ -376,3 +376,15 @@ I also ran my css file through the CSS validator and found no errors.
 ![CSS Validator](assets/images/css-validator2.png)
 
 I ran each of my html pages through the html validator. All pages had no errors however the main page and join us page both had a warning about lack of heading on a particular section, however I dont want to put a heading in these sections.
+
+#### **HTML Validator results for Main page**
+
+![HTML Validator Main page](assets/images/html-validator-main.png)
+
+#### **HTML Validator results for History page**
+
+![HTML Validator History page](assets/images/html-validator-history.png)
+
+#### **HTML Validator results for Join us page**
+
+![HTML Validator Join us page](assets/images/html-validator-joinus.png)
